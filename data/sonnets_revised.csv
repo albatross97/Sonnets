@@ -1,0 +1,2310 @@
+text,char,word,index,index_num,line,id
+I,1,1,I,1,0,1
+"From fairest creatures we desire increase,",42,6,I,1,1,2
+"That thereby beauty's rose might never die,",43,7,I,1,2,3
+"But as the riper should by time decease,",40,8,I,1,3,4
+His tender heir might bear his memory:,38,7,I,1,4,5
+"But thou, contracted to thine own bright eyes,",46,8,I,1,5,6
+"Feed'st thy light's flame with self-substantial fuel,",53,7,I,1,6,7
+"Making a famine where abundance lies,",37,6,I,1,7,8
+"Thy self thy foe, to thy sweet self too cruel:",46,10,I,1,8,9
+"Thou that art now the world's fresh ornament,",45,8,I,1,9,10
+"And only herald to the gaudy spring,",36,7,I,1,10,11
+"Within thine own bud buriest thy content,",41,7,I,1,11,12
+And tender churl mak'st waste in niggarding:,44,7,I,1,12,13
+"Pity the world, or else this glutton be,",40,8,I,1,13,14
+"To eat the world's due, by the grave and thee.",46,10,I,1,14,15
+II,2,1,II,2,0,16
+"When forty winters shall besiege thy brow,",42,7,II,2,1,17
+"And dig deep trenches in thy beauty's field,",44,8,II,2,2,18
+"Thy youth's proud livery so gazed on now,",41,8,II,2,3,19
+Will be a tatter'd weed of small worth held:,44,9,II,2,4,20
+"Then being asked, where all thy beauty lies,",44,8,II,2,5,21
+Where all the treasure of thy lusty days;,41,8,II,2,6,22
+"To say, within thine own deep sunken eyes,",42,8,II,2,7,23
+"Were an all-eating shame, and thriftless praise.",48,7,II,2,8,24
+"How much more praise deserv'd thy beauty's use,",47,8,II,2,9,25
+If thou couldst answer 'This fair child of mine,47,9,II,2,10,26
+"Shall sum my count, and make my old excuse,'",44,9,II,2,11,27
+Proving his beauty by succession thine!,39,6,II,2,12,28
+"This were to be new made when thou art old,",43,10,II,2,13,29
+And see thy blood warm when thou feel'st it cold.,49,10,II,2,14,30
+III,3,1,III,3,0,31
+Look in thy glass and tell the face thou viewest,48,10,III,3,1,32
+Now is the time that face should form another;,46,9,III,3,2,33
+"Whose fresh repair if now thou not renewest,",44,8,III,3,3,34
+"Thou dost beguile the world, unbless some mother.",49,8,III,3,4,35
+For where is she so fair whose unear'd womb,43,9,III,3,5,36
+Disdains the tillage of thy husbandry?,38,6,III,3,6,37
+"Or who is he so fond will be the tomb,",38,10,III,3,7,38
+Of his self-love to stop posterity?,35,6,III,3,8,39
+Thou art thy mother's glass and she in thee,43,9,III,3,9,40
+Calls back the lovely April of her prime;,41,8,III,3,10,41
+"So thou through windows of thine age shalt see,",47,9,III,3,11,42
+Despite of wrinkles this thy golden time.,41,7,III,3,12,43
+"But if thou live, remember'd not to be,",39,8,III,3,13,44
+Die single and thine image dies with thee.,42,8,III,3,14,45
+IV,2,1,IV,4,0,46
+"Unthrifty loveliness, why dost thou spend",41,6,IV,4,1,47
+Upon thy self thy beauty's legacy?,34,6,IV,4,2,48
+"Nature's bequest gives nothing, but doth lend,",46,7,IV,4,3,49
+And being frank she lends to those are free:,44,9,IV,4,4,50
+"Then, beauteous niggard, why dost thou abuse",44,7,IV,4,5,51
+The bounteous largess given thee to give?,41,7,IV,4,6,52
+"Profitless usurer, why dost thou use",36,6,IV,4,7,53
+"So great a sum of sums, yet canst not live?",43,10,IV,4,8,54
+"For having traffic with thy self alone,",39,7,IV,4,9,55
+Thou of thy self thy sweet self dost deceive:,45,9,IV,4,10,56
+"Then how when nature calls thee to be gone,",43,9,IV,4,11,57
+What acceptable audit canst thou leave?,39,6,IV,4,12,58
+"Thy unused beauty must be tombed with thee,",43,8,IV,4,13,59
+"Which, used, lives th' executor to be.",38,7,IV,4,14,60
+V,1,1,V,5,0,61
+"Those hours, that with gentle work did frame",44,8,V,5,1,62
+"The lovely gaze where every eye doth dwell,",43,8,V,5,2,63
+Will play the tyrants to the very same,38,8,V,5,3,64
+And that unfair which fairly doth excel;,40,7,V,5,4,65
+For never-resting time leads summer on,38,6,V,5,5,66
+"To hideous winter, and confounds him there;",43,7,V,5,6,67
+"Sap checked with frost, and lusty leaves quite gone,",52,9,V,5,7,68
+Beauty o'er-snowed and bareness every where:,44,6,V,5,8,69
+"Then were not summer's distillation left,",41,6,V,5,9,70
+"A liquid prisoner pent in walls of glass,",41,8,V,5,10,71
+"Beauty's effect with beauty were bereft,",40,6,V,5,11,72
+"Nor it, nor no remembrance what it was:",39,8,V,5,12,73
+"But flowers distill'd, though they with winter meet,",52,8,V,5,13,74
+Leese but their show; their substance still lives sweet.,56,9,V,5,14,75
+VI,2,1,VI,6,0,76
+"Then let not winter's ragged hand deface,",41,7,VI,6,1,77
+"In thee thy summer, ere thou be distill'd:",42,8,VI,6,2,78
+Make sweet some vial; treasure thou some place,46,8,VI,6,3,79
+With beauty's treasure ere it be self-kill'd.,45,7,VI,6,4,80
+"That use is not forbidden usury,",32,6,VI,6,5,81
+Which happies those that pay the willing loan;,46,8,VI,6,6,82
+"That's for thy self to breed another thee,",42,8,VI,6,7,83
+"Or ten times happier, be it ten for one;",40,9,VI,6,8,84
+"Ten times thy self were happier than thou art,",46,9,VI,6,9,85
+If ten of thine ten times refigur'd thee:,41,8,VI,6,10,86
+"Then what could death do if thou shouldst depart,",49,9,VI,6,11,87
+Leaving thee living in posterity?,33,5,VI,6,12,88
+"Be not self-will'd, for thou art much too fair",46,9,VI,6,13,89
+To be death's conquest and make worms thine heir.,49,9,VI,6,14,90
+VII,3,1,VII,7,0,91
+Lo! in the orient when the gracious light,41,8,VII,7,1,92
+"Lifts up his burning head, each under eye",41,8,VII,7,2,93
+"Doth homage to his new-appearing sight,",39,6,VII,7,3,94
+Serving with looks his sacred majesty;,38,6,VII,7,4,95
+"And having climb'd the steep-up heavenly hill,",46,7,VII,7,5,96
+"Resembling strong youth in his middle age,",42,7,VII,7,6,97
+"Yet mortal looks adore his beauty still,",40,7,VII,7,7,98
+Attending on his golden pilgrimage:,35,5,VII,7,8,99
+"But when from highmost pitch, with weary car,",45,8,VII,7,9,100
+"Like feeble age, he reeleth from the day,",41,8,VII,7,10,101
+"The eyes, 'fore duteous, now converted are",42,7,VII,7,11,102
+"From his low tract, and look another way:",41,8,VII,7,12,103
+"So thou, thyself outgoing in thy noon:",38,7,VII,7,13,104
+"Unlook'd, on diest unless thou get a son.",41,8,VII,7,14,105
+VIII,4,1,VIII,8,0,106
+"Music to hear, why hear'st thou music sadly?",44,8,VIII,8,1,107
+"Sweets with sweets war not, joy delights in joy:",48,9,VIII,8,2,108
+"Why lov'st thou that which thou receiv'st not gladly,",53,9,VIII,8,3,109
+Or else receiv'st with pleasure thine annoy?,44,7,VIII,8,4,110
+"If the true concord of well-tuned sounds,",41,7,VIII,8,5,111
+"By unions married, do offend thine ear,",39,7,VIII,8,6,112
+"They do but sweetly chide thee, who confounds",45,8,VIII,8,7,113
+In singleness the parts that thou shouldst bear.,48,8,VIII,8,8,114
+"Mark how one string, sweet husband to another,",46,8,VIII,8,9,115
+Strikes each in each by mutual ordering;,40,7,VIII,8,10,116
+"Resembling sire and child and happy mother,",43,7,VIII,8,11,117
+"Who, all in one, one pleasing note do sing:",43,9,VIII,8,12,118
+"Whose speechless song being many, seeming one,",46,7,VIII,8,13,119
+Sings this to thee: 'Thou single wilt prove none.',50,9,VIII,8,14,120
+IX,2,1,IX,9,0,121
+"Is it for fear to wet a widow's eye,",36,9,IX,9,1,122
+That thou consum'st thy self in single life?,44,8,IX,9,2,123
+"Ah! if thou issueless shalt hap to die,",39,8,IX,9,3,124
+The world will wail thee like a makeless wife;,46,9,IX,9,4,125
+The world will be thy widow and still weep,42,9,IX,9,5,126
+"That thou no form of thee hast left behind,",43,9,IX,9,6,127
+When every private widow well may keep,38,7,IX,9,7,128
+"By children's eyes, her husband's shape in mind:",48,8,IX,9,8,129
+Look! what an unthrift in the world doth spend,46,9,IX,9,9,130
+"Shifts but his place, for still the world enjoys it;",52,10,IX,9,10,131
+"But beauty's waste hath in the world an end,",44,9,IX,9,11,132
+And kept unused the user so destroys it.,40,8,IX,9,12,133
+No love toward others in that bosom sits,40,8,IX,9,13,134
+That on himself such murd'rous shame commits.,45,7,IX,9,14,135
+X,1,1,X,10,0,136
+"For shame! deny that thou bear'st love to any,",46,9,X,10,1,137
+Who for thy self art so unprovident.,36,7,X,10,2,138
+"Grant, if thou wilt, thou art belov'd of many,",46,9,X,10,3,139
+But that thou none lov'st is most evident:,42,8,X,10,4,140
+"For thou art so possess'd with murderous hate,",46,8,X,10,5,141
+"That 'gainst thy self thou stick'st not to conspire,",52,9,X,10,6,142
+Seeking that beauteous roof to ruinate,38,6,X,10,7,143
+Which to repair should be thy chief desire.,43,8,X,10,8,144
+"O! change thy thought, that I may change my mind:",49,10,X,10,9,145
+Shall hate be fairer lodg'd than gentle love?,45,8,X,10,10,146
+"Be, as thy presence is, gracious and kind,",42,8,X,10,11,147
+Or to thyself at least kind-hearted prove:,42,7,X,10,12,148
+"Make thee another self for love of me,",38,8,X,10,13,149
+That beauty still may live in thine or thee.,44,9,X,10,14,150
+XI,2,1,XI,11,0,151
+"As fast as thou shalt wane, so fast thou grow'st,",49,10,XI,11,1,152
+"In one of thine, from that which thou departest;",48,9,XI,11,2,153
+"And that fresh blood which youngly thou bestow'st,",50,8,XI,11,3,154
+"Thou mayst call thine when thou from youth convertest,",54,9,XI,11,4,155
+"Herein lives wisdom, beauty, and increase;",42,6,XI,11,5,156
+"Without this folly, age, and cold decay:",40,7,XI,11,6,157
+"If all were minded so, the times should cease",45,9,XI,11,7,158
+And threescore year would make the world away.,46,8,XI,11,8,159
+"Let those whom nature hath not made for store,",46,9,XI,11,9,160
+"Harsh, featureless, and rude, barrenly perish:",46,6,XI,11,10,161
+"Look, whom she best endow'd, she gave thee more;",48,9,XI,11,11,162
+Which bounteous gift thou shouldst in bounty cherish:,53,8,XI,11,12,163
+"She carv'd thee for her seal, and meant thereby,",48,9,XI,11,13,164
+"Thou shouldst print more, not let that copy die.",48,9,XI,11,14,165
+XII,3,1,XII,12,0,166
+"When I do count the clock that tells the time,",46,10,XII,12,1,167
+And see the brave day sunk in hideous night;,44,9,XII,12,2,168
+"When I behold the violet past prime,",36,7,XII,12,3,169
+"And sable curls, all silvered o'er with white;",46,8,XII,12,4,170
+"When lofty trees I see barren of leaves,",40,8,XII,12,5,171
+"Which erst from heat did canopy the herd,",41,8,XII,12,6,172
+"And summer's green all girded up in sheaves,",44,8,XII,12,7,173
+"Borne on the bier with white and bristly beard,",47,9,XII,12,8,174
+"Then of thy beauty do I question make,",38,8,XII,12,9,175
+"That thou among the wastes of time must go,",43,9,XII,12,10,176
+Since sweets and beauties do themselves forsake,47,7,XII,12,11,177
+And die as fast as they see others grow;,40,9,XII,12,12,178
+And nothing 'gainst Time's scythe can make defence,50,8,XII,12,13,179
+"Save breed, to brave him when he takes thee hence.",50,10,XII,12,14,180
+XIII,4,1,XIII,13,0,181
+"O! that you were your self; but, love you are",45,10,XIII,13,1,182
+"No longer yours, than you your self here live:",46,9,XIII,13,2,183
+"Against this coming end you should prepare,",43,7,XIII,13,3,184
+And your sweet semblance to some other give:,44,8,XIII,13,4,185
+So should that beauty which you hold in lease,45,9,XIII,13,5,186
+Find no determination; then you were,36,6,XIII,13,6,187
+"Yourself again, after yourself's decease,",41,5,XIII,13,7,188
+When your sweet issue your sweet form should bear.,50,9,XIII,13,8,189
+"Who lets so fair a house fall to decay,",39,9,XIII,13,9,190
+"Which husbandry in honour might uphold,",39,6,XIII,13,10,191
+Against the stormy gusts of winter's day,40,7,XIII,13,11,192
+And barren rage of death's eternal cold?,40,7,XIII,13,12,193
+"O! none but unthrifts. Dear my love, you know,",46,9,XIII,13,13,194
+You had a father: let your son say so.,38,9,XIII,13,14,195
+XIV,3,1,XIV,14,0,196
+Not from the stars do I my judgement pluck;,43,9,XIV,14,1,197
+"And yet methinks I have astronomy,",34,6,XIV,14,2,198
+"But not to tell of good or evil luck,",37,9,XIV,14,3,199
+"Of plagues, of dearths, or seasons' quality;",44,7,XIV,14,4,200
+"Nor can I fortune to brief minutes tell,",40,8,XIV,14,5,201
+"Pointing to each his thunder, rain and wind,",44,8,XIV,14,6,202
+Or say with princes if it shall go well,39,9,XIV,14,7,203
+By oft predict that I in heaven find:,37,8,XIV,14,8,204
+"But from thine eyes my knowledge I derive,",42,8,XIV,14,9,205
+And constant stars in them I read such art,42,9,XIV,14,10,206
+"As 'Truth and beauty shall together thrive,",43,7,XIV,14,11,207
+"If from thyself, to store thou wouldst convert';",48,8,XIV,14,12,208
+Or else of thee this I prognosticate:,37,7,XIV,14,13,209
+'Thy end is truth's and beauty's doom and date.',48,9,XIV,14,14,210
+XV,2,1,XV,15,0,211
+When I consider every thing that grows,38,7,XV,15,1,212
+"Holds in perfection but a little moment,",40,7,XV,15,2,213
+That this huge stage presenteth nought but shows,48,8,XV,15,3,214
+Whereon the stars in secret influence comment;,46,7,XV,15,4,215
+"When I perceive that men as plants increase,",44,8,XV,15,5,216
+"Cheered and checked even by the self-same sky,",46,8,XV,15,6,217
+"Vaunt in their youthful sap, at height decrease,",48,8,XV,15,7,218
+And wear their brave state out of memory;,41,8,XV,15,8,219
+Then the conceit of this inconstant stay,40,7,XV,15,9,220
+"Sets you most rich in youth before my sight,",44,9,XV,15,10,221
+Where wasteful Time debateth with decay,39,6,XV,15,11,222
+"To change your day of youth to sullied night,",45,9,XV,15,12,223
+"And all in war with Time for love of you,",41,10,XV,15,13,224
+"As he takes from you, I engraft you new.",40,9,XV,15,14,225
+XVI,3,1,XVI,16,0,226
+But wherefore do not you a mightier way,39,8,XVI,16,1,227
+"Make war upon this bloody tyrant, Time?",39,7,XVI,16,2,228
+And fortify your self in your decay,35,7,XVI,16,3,229
+With means more blessed than my barren rhyme?,45,8,XVI,16,4,230
+"Now stand you on the top of happy hours,",40,9,XVI,16,5,231
+"And many maiden gardens, yet unset,",35,6,XVI,16,6,232
+"With virtuous wish would bear you living flowers,",49,8,XVI,16,7,233
+Much liker than your painted counterfeit:,41,6,XVI,16,8,234
+"So should the lines of life that life repair,",45,9,XVI,16,9,235
+"Which this, Time's pencil, or my pupil pen,",43,8,XVI,16,10,236
+"Neither in inward worth nor outward fair,",41,7,XVI,16,11,237
+Can make you live your self in eyes of men.,43,10,XVI,16,12,238
+"To give away yourself, keeps yourself still,",44,7,XVI,16,13,239
+"And you must live, drawn by your own sweet skill.",49,10,XVI,16,14,240
+XVII,4,1,XVII,17,0,241
+"Who will believe my verse in time to come,",42,9,XVII,17,1,242
+If it were fill'd with your most high deserts?,46,9,XVII,17,2,243
+Though yet heaven knows it is but as a tomb,43,10,XVII,17,3,244
+"Which hides your life, and shows not half your parts.",53,10,XVII,17,4,245
+"If I could write the beauty of your eyes,",41,9,XVII,17,5,246
+"And in fresh numbers number all your graces,",44,8,XVII,17,6,247
+The age to come would say 'This poet lies;,42,9,XVII,17,7,248
+Such heavenly touches ne'er touch'd earthly faces.',51,7,XVII,17,8,249
+"So should my papers, yellow'd with their age,",45,8,XVII,17,9,250
+"Be scorn'd, like old men of less truth than tongue,",51,10,XVII,17,10,251
+And your true rights be term'd a poet's rage,44,9,XVII,17,11,252
+And stretched metre of an antique song:,39,7,XVII,17,12,253
+"But were some child of yours alive that time,",45,9,XVII,17,13,254
+"You should live twice,--in it, and in my rhyme.",47,9,XVII,17,14,255
+XVIII,5,1,XVIII,18,0,256
+Shall I compare thee to a summer's day?,39,8,XVIII,18,1,257
+Thou art more lovely and more temperate:,40,7,XVIII,18,2,258
+"Rough winds do shake the darling buds of May,",45,9,XVIII,18,3,259
+And summer's lease hath all too short a date:,45,9,XVIII,18,4,260
+"Sometime too hot the eye of heaven shines,",42,8,XVIII,18,5,261
+"And often is his gold complexion dimm'd,",40,7,XVIII,18,6,262
+"And every fair from fair sometime declines,",43,7,XVIII,18,7,263
+"By chance, or nature's changing course untrimm'd:",49,7,XVIII,18,8,264
+"But thy eternal summer shall not fade,",38,7,XVIII,18,9,265
+"Nor lose possession of that fair thou ow'st,",44,8,XVIII,18,10,266
+"Nor shall death brag thou wander'st in his shade,",49,9,XVIII,18,11,267
+"When in eternal lines to time thou grow'st,",43,8,XVIII,18,12,268
+"So long as men can breathe, or eyes can see,",44,10,XVIII,18,13,269
+"So long lives this, and this gives life to thee.",48,10,XVIII,18,14,270
+XIX,3,1,XIX,19,0,271
+"Devouring Time, blunt thou the lion's paws,",43,7,XIX,19,1,272
+And make the earth devour her own sweet brood;,46,9,XIX,19,2,273
+"Pluck the keen teeth from the fierce tiger's jaws,",50,9,XIX,19,3,274
+"And burn the long-liv'd phoenix, in her blood;",46,8,XIX,19,4,275
+"Make glad and sorry seasons as thou fleets,",43,8,XIX,19,5,276
+"And do whate'er thou wilt, swift-footed Time,",45,7,XIX,19,6,277
+To the wide world and all her fading sweets;,44,9,XIX,19,7,278
+But I forbid thee one most heinous crime:,41,8,XIX,19,8,279
+"O! carve not with thy hours my love's fair brow,",48,10,XIX,19,9,280
+Nor draw no lines there with thine antique pen;,47,9,XIX,19,10,281
+Him in thy course untainted do allow,36,7,XIX,19,11,282
+For beauty's pattern to succeeding men.,39,6,XIX,19,12,283
+"Yet, do thy worst old Time: despite thy wrong,",46,9,XIX,19,13,284
+My love shall in my verse ever live young.,42,9,XIX,19,14,285
+XX,2,1,XX,20,0,286
+"A woman's face with nature's own hand painted,",46,8,XX,20,1,287
+"Hast thou, the master mistress of my passion;",45,8,XX,20,2,288
+"A woman's gentle heart, but not acquainted",42,7,XX,20,3,289
+"With shifting change, as is false women's fashion:",50,8,XX,20,4,290
+"An eye more bright than theirs, less false in rolling,",54,10,XX,20,5,291
+Gilding the object whereupon it gazeth;,39,6,XX,20,6,292
+"A man in hue all 'hues' in his controlling,",43,9,XX,20,7,293
+Which steals men's eyes and women's souls amazeth.,50,8,XX,20,8,294
+And for a woman wert thou first created;,40,8,XX,20,9,295
+"Till Nature, as she wrought thee, fell a-doting,",48,8,XX,20,10,296
+"And by addition me of thee defeated,",36,7,XX,20,11,297
+By adding one thing to my purpose nothing.,42,8,XX,20,12,298
+"But since she prick'd thee out for women's pleasure,",52,9,XX,20,13,299
+Mine be thy love and thy love's use their treasure.,51,10,XX,20,14,300
+XXI,3,1,XXI,21,0,301
+"So is it not with me as with that Muse,",39,10,XXI,21,1,302
+"Stirr'd by a painted beauty to his verse,",41,8,XXI,21,2,303
+Who heaven itself for ornament doth use,39,7,XXI,21,3,304
+"And every fair with his fair doth rehearse,",43,8,XXI,21,4,305
+Making a couplement of proud compare.,37,6,XXI,21,5,306
+"With sun and moon, with earth and sea's rich gems,",50,10,XXI,21,6,307
+"With April's first-born flowers, and all things rare,",53,8,XXI,21,7,308
+That heaven's air in this huge rondure hems.,44,8,XXI,21,8,309
+"O! let me, true in love, but truly write,",41,9,XXI,21,9,310
+"And then believe me, my love is as fair",39,9,XXI,21,10,311
+"As any mother's child, though not so bright",43,8,XXI,21,11,312
+As those gold candles fix'd in heaven's air:,44,8,XXI,21,12,313
+Let them say more that like of hearsay well;,44,9,XXI,21,13,314
+I will not praise that purpose not to sell.,43,9,XXI,21,14,315
+XXII,4,1,XXII,22,0,316
+"My glass shall not persuade me I am old,",40,9,XXII,22,1,317
+So long as youth and thou are of one date;,42,10,XXII,22,2,318
+"But when in thee time's furrows I behold,",41,8,XXII,22,3,319
+Then look I death my days should expiate.,41,8,XXII,22,4,320
+"For all that beauty that doth cover thee,",41,8,XXII,22,5,321
+"Is but the seemly raiment of my heart,",38,8,XXII,22,6,322
+"Which in thy breast doth live, as thine in me:",46,10,XXII,22,7,323
+How can I then be elder than thou art?,38,9,XXII,22,8,324
+"O! therefore love, be of thyself so wary",40,8,XXII,22,9,325
+"As I, not for myself, but for thee will;",40,9,XXII,22,10,326
+"Bearing thy heart, which I will keep so chary",45,9,XXII,22,11,327
+As tender nurse her babe from faring ill.,41,8,XXII,22,12,328
+"Presume not on thy heart when mine is slain,",44,9,XXII,22,13,329
+Thou gav'st me thine not to give back again.,44,9,XXII,22,14,330
+XXIII,5,1,XXIII,23,0,331
+"As an unperfect actor on the stage,",35,7,XXIII,23,1,332
+"Who with his fear is put beside his part,",41,9,XXIII,23,2,333
+"Or some fierce thing replete with too much rage,",48,9,XXIII,23,3,334
+Whose strength's abundance weakens his own heart;,49,7,XXIII,23,4,335
+"So I, for fear of trust, forget to say",38,9,XXIII,23,5,336
+"The perfect ceremony of love's rite,",36,6,XXIII,23,6,337
+"And in mine own love's strength seem to decay,",46,9,XXIII,23,7,338
+O'ercharg'd with burthen of mine own love's might.,50,8,XXIII,23,8,339
+O! let my looks be then the eloquence,37,8,XXIII,23,9,340
+"And dumb presagers of my speaking breast,",41,7,XXIII,23,10,341
+"Who plead for love, and look for recompense,",44,8,XXIII,23,11,342
+More than that tongue that more hath more express'd.,52,9,XXIII,23,12,343
+O! learn to read what silent love hath writ:,44,9,XXIII,23,13,344
+To hear with eyes belongs to love's fine wit.,45,9,XXIII,23,14,345
+XXIV,4,1,XXIV,24,0,346
+"Mine eye hath play'd the painter and hath stell'd,",50,9,XXIV,24,1,347
+Thy beauty's form in table of my heart;,39,8,XXIV,24,2,348
+"My body is the frame wherein 'tis held,",39,8,XXIV,24,3,349
+And perspective it is best painter's art.,41,7,XXIV,24,4,350
+"For through the painter must you see his skill,",47,9,XXIV,24,5,351
+"To find where your true image pictur'd lies,",44,8,XXIV,24,6,352
+"Which in my bosom's shop is hanging still,",42,8,XXIV,24,7,353
+That hath his windows glazed with thine eyes.,45,8,XXIV,24,8,354
+Now see what good turns eyes for eyes have done:,48,10,XXIV,24,9,355
+"Mine eyes have drawn thy shape, and thine for me",48,10,XXIV,24,10,356
+"Are windows to my breast, where-through the sun",47,8,XXIV,24,11,357
+"Delights to peep, to gaze therein on thee;",42,8,XXIV,24,12,358
+"Yet eyes this cunning want to grace their art,",46,9,XXIV,24,13,359
+"They draw but what they see, know not the heart.",48,10,XXIV,24,14,360
+XXV,3,1,XXV,25,0,361
+Let those who are in favour with their stars,44,9,XXV,25,1,362
+"Of public honour and proud titles boast,",40,7,XXV,25,2,363
+"Whilst I, whom fortune of such triumph bars",43,8,XXV,25,3,364
+Unlook'd for joy in that I honour most.,39,8,XXV,25,4,365
+Great princes' favourites their fair leaves spread,50,7,XXV,25,5,366
+"But as the marigold at the sun's eye,",37,8,XXV,25,6,367
+"And in themselves their pride lies buried,",42,7,XXV,25,7,368
+For at a frown they in their glory die.,39,9,XXV,25,8,369
+"The painful warrior famoused for fight,",39,6,XXV,25,9,370
+"After a thousand victories once foil'd,",39,6,XXV,25,10,371
+"Is from the book of honour razed quite,",39,8,XXV,25,11,372
+And all the rest forgot for which he toil'd:,44,9,XXV,25,12,373
+"Then happy I, that love and am belov'd,",39,8,XXV,25,13,374
+Where I may not remove nor be remov'd.,38,8,XXV,25,14,375
+XXVI,4,1,XXVI,26,0,376
+"Lord of my love, to whom in vassalage",37,8,XXVI,26,1,377
+"Thy merit hath my duty strongly knit,",37,7,XXVI,26,2,378
+"To thee I send this written embassage,",38,7,XXVI,26,3,379
+"To witness duty, not to show my wit:",36,8,XXVI,26,4,380
+"Duty so great, which wit so poor as mine",40,9,XXVI,26,5,381
+"May make seem bare, in wanting words to show it,",48,10,XXVI,26,6,382
+But that I hope some good conceit of thine,42,9,XXVI,26,7,383
+"In thy soul's thought, all naked, will bestow it:",49,9,XXVI,26,8,384
+"Till whatsoever star that guides my moving,",43,7,XXVI,26,9,385
+"Points on me graciously with fair aspect,",41,7,XXVI,26,10,386
+"And puts apparel on my tatter'd loving,",39,7,XXVI,26,11,387
+To show me worthy of thy sweet respect:,39,8,XXVI,26,12,388
+Then may I dare to boast how I do love thee;,44,11,XXVI,26,13,389
+"Till then, not show my head where thou mayst prove me.",54,11,XXVI,26,14,390
+XXVII,5,1,XXVII,27,0,391
+"Weary with toil, I haste me to my bed,",38,9,XXVII,27,1,392
+The dear respose for limbs with travel tir'd;,45,8,XXVII,27,2,393
+But then begins a journey in my head,36,8,XXVII,27,3,394
+"To work my mind, when body's work's expired:",44,8,XXVII,27,4,395
+For then my thoughts--from far where I abide--,46,8,XXVII,27,5,396
+"Intend a zealous pilgrimage to thee,",36,6,XXVII,27,6,397
+"And keep my drooping eyelids open wide,",39,7,XXVII,27,7,398
+Looking on darkness which the blind do see:,43,8,XXVII,27,8,399
+Save that my soul's imaginary sight,35,6,XXVII,27,9,400
+"Presents thy shadow to my sightless view,",41,7,XXVII,27,10,401
+"Which, like a jewel hung in ghastly night,",42,8,XXVII,27,11,402
+"Makes black night beauteous, and her old face new.",50,9,XXVII,27,12,403
+"Lo! thus, by day my limbs, by night my mind,",44,10,XXVII,27,13,404
+"For thee, and for myself, no quiet find.",40,8,XXVII,27,14,405
+XXVIII,6,1,XXVIII,28,0,406
+"How can I then return in happy plight,",38,8,XXVIII,28,1,407
+That am debarre'd the benefit of rest?,38,7,XXVIII,28,2,408
+"When day's oppression is not eas'd by night,",44,8,XXVIII,28,3,409
+"But day by night and night by day oppress'd,",44,9,XXVIII,28,4,410
+"And each, though enemies to either's reign,",43,7,XXVIII,28,5,411
+"Do in consent shake hands to torture me,",40,8,XXVIII,28,6,412
+"The one by toil, the other to complain",38,8,XXVIII,28,7,413
+"How far I toil, still farther off from thee.",44,9,XXVIII,28,8,414
+"I tell the day, to please him thou art bright,",46,10,XXVIII,28,9,415
+And dost him grace when clouds do blot the heaven:,50,10,XXVIII,28,10,416
+"So flatter I the swart-complexion'd night,",42,6,XXVIII,28,11,417
+When sparkling stars twire not thou gild'st the even.,53,9,XXVIII,28,12,418
+"But day doth daily draw my sorrows longer,",42,8,XXVIII,28,13,419
+And night doth nightly make grief's length seem stronger.,57,9,XXVIII,28,14,420
+XXIX,4,1,XXIX,29,0,421
+When in disgrace with fortune and men's eyes,44,8,XXIX,29,1,422
+"I all alone beweep my outcast state,",36,7,XXIX,29,2,423
+"And trouble deaf heaven with my bootless cries,",47,8,XXIX,29,3,424
+"And look upon myself, and curse my fate,",40,8,XXIX,29,4,425
+"Wishing me like to one more rich in hope,",41,9,XXIX,29,5,426
+"Featur'd like him, like him with friends possess'd,",51,8,XXIX,29,6,427
+"Desiring this man's art, and that man's scope,",46,8,XXIX,29,7,428
+With what I most enjoy contented least;,39,7,XXIX,29,8,429
+"Yet in these thoughts my self almost despising,",47,8,XXIX,29,9,430
+"Haply I think on thee,-- and then my state,",43,9,XXIX,29,10,431
+Like to the lark at break of day arising,40,9,XXIX,29,11,432
+"From sullen earth, sings hymns at heaven's gate;",48,8,XXIX,29,12,433
+For thy sweet love remember'd such wealth brings,48,8,XXIX,29,13,434
+That then I scorn to change my state with kings.,48,10,XXIX,29,14,435
+XXX,3,1,XXX,30,0,436
+When to the sessions of sweet silent thought,44,8,XXX,30,1,437
+"I summon up remembrance of things past,",39,7,XXX,30,2,438
+"I sigh the lack of many a thing I sought,",41,10,XXX,30,3,439
+And with old woes new wail my dear time's waste:,48,10,XXX,30,4,440
+"Then can I drown an eye, unused to flow,",40,9,XXX,30,5,441
+"For precious friends hid in death's dateless night,",51,8,XXX,30,6,442
+"And weep afresh love's long since cancell'd woe,",48,8,XXX,30,7,443
+And moan the expense of many a vanish'd sight:,46,9,XXX,30,8,444
+"Then can I grieve at grievances foregone,",41,7,XXX,30,9,445
+And heavily from woe to woe tell o'er,37,8,XXX,30,10,446
+"The sad account of fore-bemoaned moan,",38,6,XXX,30,11,447
+Which I new pay as if not paid before.,38,9,XXX,30,12,448
+"But if the while I think on thee, dear friend,",46,10,XXX,30,13,449
+All losses are restor'd and sorrows end.,40,7,XXX,30,14,450
+XXXI,4,1,XXXI,31,0,451
+"Thy bosom is endeared with all hearts,",38,7,XXXI,31,1,452
+Which I by lacking have supposed dead;,38,7,XXXI,31,2,453
+"And there reigns Love, and all Love's loving parts,",51,9,XXXI,31,3,454
+And all those friends which I thought buried.,45,8,XXXI,31,4,455
+How many a holy and obsequious tear,35,7,XXXI,31,5,456
+"Hath dear religious love stol'n from mine eye,",46,8,XXXI,31,6,457
+"As interest of the dead, which now appear",41,8,XXXI,31,7,458
+But things remov'd that hidden in thee lie!,43,8,XXXI,31,8,459
+"Thou art the grave where buried love doth live,",47,9,XXXI,31,9,460
+"Hung with the trophies of my lovers gone,",41,8,XXXI,31,10,461
+"Who all their parts of me to thee did give,",43,10,XXXI,31,11,462
+That due of many now is thine alone:,36,8,XXXI,31,12,463
+"Their images I lov'd, I view in thee,",37,8,XXXI,31,13,464
+And thou--all they--hast all the all of me.,43,8,XXXI,31,14,465
+XXXII,5,1,XXXII,32,0,466
+"If thou survive my well-contented day,",38,6,XXXII,32,1,467
+When that churl Death my bones with dust shall cover,52,10,XXXII,32,2,468
+And shalt by fortune once more re-survey,40,7,XXXII,32,3,469
+"These poor rude lines of thy deceased lover,",44,8,XXXII,32,4,470
+"Compare them with the bett'ring of the time,",44,8,XXXII,32,5,471
+"And though they be outstripp'd by every pen,",44,8,XXXII,32,6,472
+"Reserve them for my love, not for their rhyme,",46,9,XXXII,32,7,473
+Exceeded by the height of happier men.,38,7,XXXII,32,8,474
+O! then vouchsafe me but this loving thought:,45,8,XXXII,32,9,475
+"'Had my friend's Muse grown with this growing age,",50,9,XXXII,32,10,476
+"A dearer birth than this his love had brought,",46,9,XXXII,32,11,477
+To march in ranks of better equipage:,37,7,XXXII,32,12,478
+"But since he died and poets better prove,",41,8,XXXII,32,13,479
+"Theirs for their style I'll read, his for his love'.",52,10,XXXII,32,14,480
+XXXIII,6,1,XXXIII,33,0,481
+Full many a glorious morning have I seen,40,8,XXXIII,33,1,482
+"Flatter the mountain tops with sovereign eye,",45,7,XXXIII,33,2,483
+"Kissing with golden face the meadows green,",43,7,XXXIII,33,3,484
+Gilding pale streams with heavenly alchemy;,43,6,XXXIII,33,4,485
+Anon permit the basest clouds to ride,37,7,XXXIII,33,5,486
+"With ugly rack on his celestial face,",37,7,XXXIII,33,6,487
+"And from the forlorn world his visage hide,",43,8,XXXIII,33,7,488
+Stealing unseen to west with this disgrace:,43,7,XXXIII,33,8,489
+"Even so my sun one early morn did shine,",40,9,XXXIII,33,9,490
+With all triumphant splendour on my brow;,41,7,XXXIII,33,10,491
+"But out! alack! he was but one hour mine,",41,9,XXXIII,33,11,492
+The region cloud hath mask'd him from me now.,45,9,XXXIII,33,12,493
+Yet him for this my love no whit disdaineth;,44,9,XXXIII,33,13,494
+Suns of the world may stain when heaven's sun staineth.,55,10,XXXIII,33,14,495
+XXXIV,5,1,XXXIV,34,0,496
+"Why didst thou promise such a beauteous day,",44,8,XXXIV,34,1,497
+"And make me travel forth without my cloak,",42,8,XXXIV,34,2,498
+"To let base clouds o'ertake me in my way,",41,9,XXXIV,34,3,499
+Hiding thy bravery in their rotten smoke?,41,7,XXXIV,34,4,500
+"'Tis not enough that through the cloud thou break,",50,9,XXXIV,34,5,501
+"To dry the rain on my storm-beaten face,",40,8,XXXIV,34,6,502
+"For no man well of such a salve can speak,",42,10,XXXIV,34,7,503
+"That heals the wound, and cures not the disgrace:",49,9,XXXIV,34,8,504
+Nor can thy shame give physic to my grief;,42,9,XXXIV,34,9,505
+"Though thou repent, yet I have still the loss:",46,9,XXXIV,34,10,506
+The offender's sorrow lends but weak relief,43,7,XXXIV,34,11,507
+To him that bears the strong offence's cross.,45,8,XXXIV,34,12,508
+"Ah! but those tears are pearl which thy love sheds,",51,10,XXXIV,34,13,509
+And they are rich and ransom all ill deeds.,43,9,XXXIV,34,14,510
+XXXV,4,1,XXXV,35,0,511
+No more be griev'd at that which thou hast done:,48,10,XXXV,35,1,512
+"Roses have thorns, and silver fountains mud:",44,7,XXXV,35,2,513
+"Clouds and eclipses stain both moon and sun,",44,8,XXXV,35,3,514
+And loathsome canker lives in sweetest bud.,43,7,XXXV,35,4,515
+"All men make faults, and even I in this,",40,9,XXXV,35,5,516
+"Authorizing thy trespass with compare,",38,5,XXXV,35,6,517
+"Myself corrupting, salving thy amiss,",37,5,XXXV,35,7,518
+Excusing thy sins more than thy sins are;,41,8,XXXV,35,8,519
+"For to thy sensual fault I bring in sense,--",44,9,XXXV,35,9,520
+"Thy adverse party is thy advocate,--",36,6,XXXV,35,10,521
+And 'gainst myself a lawful plea commence:,42,7,XXXV,35,11,522
+"Such civil war is in my love and hate,",38,9,XXXV,35,12,523
+"That I an accessary needs must be,",34,7,XXXV,35,13,524
+To that sweet thief which sourly robs from me.,46,9,XXXV,35,14,525
+XXXVI,5,1,XXXVI,36,0,526
+"Let me confess that we two must be twain,",41,9,XXXVI,36,1,527
+Although our undivided loves are one:,37,6,XXXVI,36,2,528
+"So shall those blots that do with me remain,",44,9,XXXVI,36,3,529
+"Without thy help, by me be borne alone.",39,8,XXXVI,36,4,530
+"In our two loves there is but one respect,",42,9,XXXVI,36,5,531
+"Though in our lives a separable spite,",38,7,XXXVI,36,6,532
+"Which though it alter not love's sole effect,",45,8,XXXVI,36,7,533
+Yet doth it steal sweet hours from love's delight.,50,9,XXXVI,36,8,534
+"I may not evermore acknowledge thee,",36,6,XXXVI,36,9,535
+"Lest my bewailed guilt should do thee shame,",44,8,XXXVI,36,10,536
+"Nor thou with public kindness honour me,",40,7,XXXVI,36,11,537
+Unless thou take that honour from thy name:,43,8,XXXVI,36,12,538
+"But do not so, I love thee in such sort,",40,10,XXXVI,36,13,539
+"As thou being mine, mine is thy good report.",44,9,XXXVI,36,14,540
+XXXVII,6,1,XXXVII,37,0,541
+As a decrepit father takes delight,34,6,XXXVII,37,1,542
+"To see his active child do deeds of youth,",42,9,XXXVII,37,2,543
+"So I, made lame by Fortune's dearest spite,",43,8,XXXVII,37,3,544
+Take all my comfort of thy worth and truth;,43,9,XXXVII,37,4,545
+"For whether beauty, birth, or wealth, or wit,",45,8,XXXVII,37,5,546
+"Or any of these all, or all, or more,",37,9,XXXVII,37,6,547
+"Entitled in thy parts, do crowned sit,",38,7,XXXVII,37,7,548
+"I make my love engrafted, to this store:",40,8,XXXVII,37,8,549
+"So then I am not lame, poor, nor despis'd,",42,9,XXXVII,37,9,550
+Whilst that this shadow doth such substance give,48,8,XXXVII,37,10,551
+"That I in thy abundance am suffic'd,",36,7,XXXVII,37,11,552
+And by a part of all thy glory live.,36,9,XXXVII,37,12,553
+"Look what is best, that best I wish in thee:",44,10,XXXVII,37,13,554
+This wish I have; then ten times happy me!,42,9,XXXVII,37,14,555
+XXXVIII,7,1,XXXVIII,38,0,556
+"How can my muse want subject to invent,",39,8,XXXVIII,38,1,557
+"While thou dost breathe, that pour'st into my verse",51,9,XXXVIII,38,2,558
+"Thine own sweet argument, too excellent",39,6,XXXVIII,38,3,559
+For every vulgar paper to rehearse?,35,6,XXXVIII,38,4,560
+"O! give thy self the thanks, if aught in me",43,10,XXXVIII,38,5,561
+Worthy perusal stand against thy sight;,39,6,XXXVIII,38,6,562
+"For who's so dumb that cannot write to thee,",44,9,XXXVIII,38,7,563
+When thou thy self dost give invention light?,45,8,XXXVIII,38,8,564
+"Be thou the tenth Muse, ten times more in worth",47,10,XXXVIII,38,9,565
+Than those old nine which rhymers invocate;,43,7,XXXVIII,38,10,566
+"And he that calls on thee, let him bring forth",46,10,XXXVIII,38,11,567
+Eternal numbers to outlive long date.,37,6,XXXVIII,38,12,568
+"If my slight muse do please these curious days,",47,9,XXXVIII,38,13,569
+"The pain be mine, but thine shall be the praise.",48,10,XXXVIII,38,14,570
+XXXIX,5,1,XXXIX,39,0,571
+"O! how thy worth with manners may I sing,",41,9,XXXIX,39,1,572
+When thou art all the better part of me?,40,9,XXXIX,39,2,573
+What can mine own praise to mine own self bring?,48,10,XXXIX,39,3,574
+And what is't but mine own when I praise thee?,46,10,XXXIX,39,4,575
+"Even for this, let us divided live,",35,7,XXXIX,39,5,576
+"And our dear love lose name of single one,",42,9,XXXIX,39,6,577
+That by this separation I may give,34,7,XXXIX,39,7,578
+That due to thee which thou deserv'st alone.,44,8,XXXIX,39,8,579
+"O absence! what a torment wouldst thou prove,",45,8,XXXIX,39,9,580
+"Were it not thy sour leisure gave sweet leave,",46,9,XXXIX,39,10,581
+"To entertain the time with thoughts of love,",44,8,XXXIX,39,11,582
+"Which time and thoughts so sweetly doth deceive,",48,8,XXXIX,39,12,583
+"And that thou teachest how to make one twain,",45,9,XXXIX,39,13,584
+By praising him here who doth hence remain.,43,8,XXXIX,39,14,585
+XL,2,1,XL,40,0,586
+"Take all my loves, my love, yea take them all;",46,10,XL,40,1,587
+What hast thou then more than thou hadst before?,48,9,XL,40,2,588
+"No love, my love, that thou mayst true love call;",49,10,XL,40,3,589
+"All mine was thine, before thou hadst this more.",48,9,XL,40,4,590
+"Then, if for my love, thou my love receivest,",45,9,XL,40,5,591
+"I cannot blame thee, for my love thou usest;",44,9,XL,40,6,592
+"But yet be blam'd, if thou thy self deceivest",45,9,XL,40,7,593
+By wilful taste of what thyself refusest.,41,7,XL,40,8,594
+"I do forgive thy robbery, gentle thief,",39,7,XL,40,9,595
+Although thou steal thee all my poverty:,40,7,XL,40,10,596
+"And yet, love knows it is a greater grief",41,9,XL,40,11,597
+"To bear love's wrong, than hate's known injury.",47,8,XL,40,12,598
+"Lascivious grace, in whom all ill well shows,",45,8,XL,40,13,599
+Kill me with spites yet we must not be foes.,44,10,XL,40,14,600
+XLI,3,1,XLI,41,0,601
+"Those pretty wrongs that liberty commits,",41,6,XLI,41,1,602
+"When I am sometime absent from thy heart,",41,8,XLI,41,2,603
+"Thy beauty, and thy years full well befits,",43,8,XLI,41,3,604
+For still temptation follows where thou art.,44,7,XLI,41,4,605
+"Gentle thou art, and therefore to be won,",41,8,XLI,41,5,606
+"Beauteous thou art, therefore to be assail'd;",45,7,XLI,41,6,607
+"And when a woman woos, what woman's son",39,8,XLI,41,7,608
+Will sourly leave her till he have prevail'd?,45,8,XLI,41,8,609
+"Ay me! but yet thou mightst my seat forbear,",44,9,XLI,41,9,610
+"And chide thy beauty and thy straying youth,",44,8,XLI,41,10,611
+Who lead thee in their riot even there,38,8,XLI,41,11,612
+Where thou art forced to break a twofold truth:--,49,9,XLI,41,12,613
+"Hers by thy beauty tempting her to thee,",40,8,XLI,41,13,614
+Thine by thy beauty being false to me.,38,8,XLI,41,14,615
+XLII,4,1,XLII,42,0,616
+"That thou hast her it is not all my grief,",42,10,XLII,42,1,617
+And yet it may be said I loved her dearly;,42,10,XLII,42,2,618
+"That she hath thee is of my wailing chief,",42,9,XLII,42,3,619
+A loss in love that touches me more nearly.,43,9,XLII,42,4,620
+Loving offenders thus I will excuse ye:,39,7,XLII,42,5,621
+"Thou dost love her, because thou know'st I love her;",52,10,XLII,42,6,622
+"And for my sake even so doth she abuse me,",42,10,XLII,42,7,623
+Suffering my friend for my sake to approve her.,47,9,XLII,42,8,624
+"If I lose thee, my loss is my love's gain,",42,10,XLII,42,9,625
+"And losing her, my friend hath found that loss;",47,9,XLII,42,10,626
+"Both find each other, and I lose both twain,",44,9,XLII,42,11,627
+And both for my sake lay on me this cross:,42,10,XLII,42,12,628
+But here's the joy; my friend and I are one;,44,10,XLII,42,13,629
+Sweet flattery! then she loves but me alone.,44,8,XLII,42,14,630
+XLIII,5,1,XLIII,43,0,631
+"When most I wink, then do mine eyes best see,",45,10,XLIII,43,1,632
+For all the day they view things unrespected;,45,8,XLIII,43,2,633
+"But when I sleep, in dreams they look on thee,",46,10,XLIII,43,3,634
+"And darkly bright, are bright in dark directed.",47,8,XLIII,43,4,635
+"Then thou, whose shadow shadows doth make bright,",49,8,XLIII,43,5,636
+How would thy shadow's form form happy show,43,8,XLIII,43,6,637
+"To the clear day with thy much clearer light,",45,9,XLIII,43,7,638
+When to unseeing eyes thy shade shines so!,42,8,XLIII,43,8,639
+"How would, I say, mine eyes be blessed made",43,9,XLIII,43,9,640
+"By looking on thee in the living day,",37,8,XLIII,43,10,641
+When in dead night thy fair imperfect shade,43,8,XLIII,43,11,642
+Through heavy sleep on sightless eyes doth stay!,48,8,XLIII,43,12,643
+"All days are nights to see till I see thee,",43,10,XLIII,43,13,644
+And nights bright days when dreams do show thee me.,51,10,XLIII,43,14,645
+XLIV,4,1,XLIV,44,0,646
+"If the dull substance of my flesh were thought,",47,9,XLIV,44,1,647
+Injurious distance should not stop my way;,42,7,XLIV,44,2,648
+"For then despite of space I would be brought,",45,9,XLIV,44,3,649
+"From limits far remote, where thou dost stay.",45,8,XLIV,44,4,650
+No matter then although my foot did stand,41,8,XLIV,44,5,651
+Upon the farthest earth remov'd from thee;,42,7,XLIV,44,6,652
+"For nimble thought can jump both sea and land,",46,9,XLIV,44,7,653
+As soon as think the place where he would be.,45,10,XLIV,44,8,654
+"But, ah! thought kills me that I am not thought,",48,10,XLIV,44,9,655
+"To leap large lengths of miles when thou art gone,",50,10,XLIV,44,10,656
+"But that so much of earth and water wrought,",44,9,XLIV,44,11,657
+I must attend time's leisure with my moan;,42,8,XLIV,44,12,658
+Receiving nought by elements so slow,36,6,XLIV,44,13,659
+"But heavy tears, badges of either's woe.",40,7,XLIV,44,14,660
+XLV,3,1,XLV,45,0,661
+"The other two, slight air, and purging fire",43,8,XLV,45,1,662
+"Are both with thee, wherever I abide;",37,7,XLV,45,2,663
+"The first my thought, the other my desire,",42,8,XLV,45,3,664
+These present-absent with swift motion slide.,45,6,XLV,45,4,665
+For when these quicker elements are gone,40,7,XLV,45,5,666
+"In tender embassy of love to thee,",34,7,XLV,45,6,667
+"My life, being made of four, with two alone",43,9,XLV,45,7,668
+"Sinks down to death, oppress'd with melancholy;",47,7,XLV,45,8,669
+Until life's composition be recur'd,35,5,XLV,45,9,670
+"By those swift messengers return'd from thee,",45,7,XLV,45,10,671
+"Who even but now come back again, assur'd,",42,8,XLV,45,11,672
+"Of thy fair health, recounting it to me:",40,8,XLV,45,12,673
+"This told, I joy; but then no longer glad,",42,9,XLV,45,13,674
+"I send them back again, and straight grow sad.",46,9,XLV,45,14,675
+XLVI,4,1,XLVI,46,0,676
+"Mine eye and heart are at a mortal war,",39,9,XLVI,46,1,677
+How to divide the conquest of thy sight;,40,8,XLVI,46,2,678
+"Mine eye my heart thy picture's sight would bar,",48,9,XLVI,46,3,679
+My heart mine eye the freedom of that right.,44,9,XLVI,46,4,680
+"My heart doth plead that thou in him dost lie,--",48,10,XLVI,46,5,681
+A closet never pierc'd with crystal eyes--,42,7,XLVI,46,6,682
+"But the defendant doth that plea deny,",38,7,XLVI,46,7,683
+And says in him thy fair appearance lies.,41,8,XLVI,46,8,684
+To side this title is impannelled,33,6,XLVI,46,9,685
+"A quest of thoughts, all tenants to the heart;",46,9,XLVI,46,10,686
+And by their verdict is determined,34,6,XLVI,46,11,687
+"The clear eye's moiety, and the dear heart's part:",50,9,XLVI,46,12,688
+"As thus; mine eye's due is thy outward part,",44,9,XLVI,46,13,689
+"And my heart's right, thy inward love of heart.",47,9,XLVI,46,14,690
+XLVII,5,1,XLVII,47,0,691
+"Betwixt mine eye and heart a league is took,",44,9,XLVII,47,1,692
+And each doth good turns now unto the other:,44,9,XLVII,47,2,693
+"When that mine eye is famish'd for a look,",42,9,XLVII,47,3,694
+"Or heart in love with sighs himself doth smother,",49,9,XLVII,47,4,695
+"With my love's picture then my eye doth feast,",46,9,XLVII,47,5,696
+And to the painted banquet bids my heart;,41,8,XLVII,47,6,697
+"Another time mine eye is my heart's guest,",42,8,XLVII,47,7,698
+And in his thoughts of love doth share a part:,46,10,XLVII,47,8,699
+"So, either by thy picture or my love,",37,8,XLVII,47,9,700
+"Thy self away, art present still with me;",41,8,XLVII,47,10,701
+"For thou not farther than my thoughts canst move,",49,9,XLVII,47,11,702
+"And I am still with them, and they with thee;",45,10,XLVII,47,12,703
+"Or, if they sleep, thy picture in my sight",42,9,XLVII,47,13,704
+"Awakes my heart, to heart's and eye's delight.",46,8,XLVII,47,14,705
+XLVIII,6,1,XLVIII,48,0,706
+"How careful was I when I took my way,",37,9,XLVIII,48,1,707
+"Each trifle under truest bars to thrust,",40,7,XLVIII,48,2,708
+That to my use it might unused stay,35,8,XLVIII,48,3,709
+"From hands of falsehood, in sure wards of trust!",48,9,XLVIII,48,4,710
+"But thou, to whom my jewels trifles are,",40,8,XLVIII,48,5,711
+"Most worthy comfort, now my greatest grief,",43,7,XLVIII,48,6,712
+"Thou best of dearest, and mine only care,",41,8,XLVIII,48,7,713
+Art left the prey of every vulgar thief.,40,8,XLVIII,48,8,714
+"Thee have I not lock'd up in any chest,",39,9,XLVIII,48,9,715
+"Save where thou art not, though I feel thou art,",48,10,XLVIII,48,10,716
+"Within the gentle closure of my breast,",39,7,XLVIII,48,11,717
+From whence at pleasure thou mayst come and part;,49,9,XLVIII,48,12,718
+"And even thence thou wilt be stol'n I fear,",43,9,XLVIII,48,13,719
+For truth proves thievish for a prize so dear.,46,9,XLVIII,48,14,720
+XLIX,4,1,XLIX,49,0,721
+"Against that time, if ever that time come,",42,8,XLIX,49,1,722
+"When I shall see thee frown on my defects,",42,9,XLIX,49,2,723
+"When as thy love hath cast his utmost sum,",42,9,XLIX,49,3,724
+Call'd to that audit by advis'd respects;,41,7,XLIX,49,4,725
+"Against that time when thou shalt strangely pass,",49,8,XLIX,49,5,726
+"And scarcely greet me with that sun, thine eye,",47,9,XLIX,49,6,727
+"When love, converted from the thing it was,",43,8,XLIX,49,7,728
+Shall reasons find of settled gravity;,38,6,XLIX,49,8,729
+"Against that time do I ensconce me here,",40,8,XLIX,49,9,730
+"Within the knowledge of mine own desert,",40,7,XLIX,49,10,731
+"And this my hand, against my self uprear,",41,8,XLIX,49,11,732
+To guard the lawful reasons on thy part:,40,8,XLIX,49,12,733
+"To leave poor me thou hast the strength of laws,",48,10,XLIX,49,13,734
+Since why to love I can allege no cause.,40,9,XLIX,49,14,735
+L,1,1,L,50,0,736
+"How heavy do I journey on the way,",34,8,L,50,1,737
+"When what I seek, my weary travel's end,",40,8,L,50,2,738
+"Doth teach that ease and that repose to say,",44,9,L,50,3,739
+'Thus far the miles are measured from thy friend!',50,9,L,50,4,740
+"The beast that bears me, tired with my woe,",43,9,L,50,5,741
+"Plods dully on, to bear that weight in me,",42,9,L,50,6,742
+As if by some instinct the wretch did know,42,9,L,50,7,743
+"His rider lov'd not speed, being made from thee:",48,9,L,50,8,744
+"The bloody spur cannot provoke him on,",38,7,L,50,9,745
+"That sometimes anger thrusts into his hide,",43,7,L,50,10,746
+"Which heavily he answers with a groan,",38,7,L,50,11,747
+More sharp to me than spurring to his side;,43,9,L,50,12,748
+"For that same groan doth put this in my mind,",45,10,L,50,13,749
+"My grief lies onward, and my joy behind.",40,8,L,50,14,750
+LI,2,1,LI,51,0,751
+Thus can my love excuse the slow offence,40,8,LI,51,1,752
+Of my dull bearer when from thee I speed:,41,9,LI,51,2,753
+From where thou art why should I haste me thence?,49,10,LI,51,3,754
+"Till I return, of posting is no need.",37,8,LI,51,4,755
+"O! what excuse will my poor beast then find,",44,9,LI,51,5,756
+When swift extremity can seem but slow?,39,7,LI,51,6,757
+"Then should I spur, though mounted on the wind,",47,9,LI,51,7,758
+"In winged speed no motion shall I know,",39,8,LI,51,8,759
+Then can no horse with my desire keep pace;,43,9,LI,51,9,760
+"Therefore desire, of perfect'st love being made,",48,7,LI,51,10,761
+Shall neigh--no dull flesh--in his fiery race;,46,7,LI,51,11,762
+"But love, for love, thus shall excuse my jade,--",48,9,LI,51,12,763
+"'Since from thee going, he went wilful-slow,",44,7,LI,51,13,764
+"Towards thee I'll run, and give him leave to go.'",49,10,LI,51,14,765
+LII,3,1,LII,52,0,766
+"So am I as the rich, whose blessed key,",39,9,LII,52,1,767
+"Can bring him to his sweet up-locked treasure,",46,8,LII,52,2,768
+"The which he will not every hour survey,",40,8,LII,52,3,769
+For blunting the fine point of seldom pleasure.,47,8,LII,52,4,770
+"Therefore are feasts so solemn and so rare,",43,8,LII,52,5,771
+"Since, seldom coming in that long year set,",43,8,LII,52,6,772
+"Like stones of worth they thinly placed are,",44,8,LII,52,7,773
+Or captain jewels in the carcanet.,34,6,LII,52,8,774
+"So is the time that keeps you as my chest,",42,10,LII,52,9,775
+"Or as the wardrobe which the robe doth hide,",44,9,LII,52,10,776
+"To make some special instant special-blest,",43,6,LII,52,11,777
+By new unfolding his imprison'd pride.,38,6,LII,52,12,778
+"Blessed are you whose worthiness gives scope,",45,7,LII,52,13,779
+"Being had, to triumph; being lacked, to hope.",45,8,LII,52,14,780
+LIII,4,1,LIII,53,0,781
+"What is your substance, whereof are you made,",45,8,LIII,53,1,782
+That millions of strange shadows on you tend?,45,8,LIII,53,2,783
+"Since every one, hath every one, one shade,",43,8,LIII,53,3,784
+"And you but one, can every shadow lend.",39,8,LIII,53,4,785
+"Describe Adonis, and the counterfeit",36,5,LIII,53,5,786
+Is poorly imitated after you;,29,5,LIII,53,6,787
+"On Helen's cheek all art of beauty set,",39,8,LIII,53,7,788
+And you in Grecian tires are painted new:,41,8,LIII,53,8,789
+"Speak of the spring, and foison of the year,",44,9,LIII,53,9,790
+"The one doth shadow of your beauty show,",40,8,LIII,53,10,791
+The other as your bounty doth appear;,37,7,LIII,53,11,792
+And you in every blessed shape we know.,39,8,LIII,53,12,793
+"In all external grace you have some part,",41,8,LIII,53,13,794
+"But you like none, none you, for constant heart.",48,9,LIII,53,14,795
+LIV,3,1,LIV,54,0,796
+O! how much more doth beauty beauteous seem,43,8,LIV,54,1,797
+By that sweet ornament which truth doth give.,45,8,LIV,54,2,798
+"The rose looks fair, but fairer we it deem",42,9,LIV,54,3,799
+"For that sweet odour, which doth in it live.",44,9,LIV,54,4,800
+The canker blooms have full as deep a dye,41,9,LIV,54,5,801
+As the perfumed tincture of the roses.,38,7,LIV,54,6,802
+"Hang on such thorns, and play as wantonly",41,8,LIV,54,7,803
+When summer's breath their masked buds discloses:,49,7,LIV,54,8,804
+"But, for their virtue only is their show,",41,8,LIV,54,9,805
+"They live unwoo'd, and unrespected fade;",40,6,LIV,54,10,806
+Die to themselves. Sweet roses do not so;,41,8,LIV,54,11,807
+"Of their sweet deaths, are sweetest odours made:",48,8,LIV,54,12,808
+"And so of you, beauteous and lovely youth,",42,8,LIV,54,13,809
+"When that shall vade, by verse distills your truth.",51,9,LIV,54,14,810
+LV,2,1,LV,55,0,811
+"Not marble, nor the gilded monuments",36,6,LV,55,1,812
+"Of princes, shall outlive this powerful rhyme;",46,7,LV,55,2,813
+But you shall shine more bright in these contents,49,9,LV,55,3,814
+"Than unswept stone, besmear'd with sluttish time.",49,7,LV,55,4,815
+"When wasteful war shall statues overturn,",41,6,LV,55,5,816
+"And broils root out the work of masonry,",40,8,LV,55,6,817
+"Nor Mars his sword, nor war's quick fire shall burn",51,10,LV,55,7,818
+The living record of your memory.,33,6,LV,55,8,819
+"'Gainst death, and all-oblivious enmity",39,5,LV,55,9,820
+Shall you pace forth; your praise shall still find room,55,10,LV,55,10,821
+Even in the eyes of all posterity,33,7,LV,55,11,822
+That wear this world out to the ending doom.,44,9,LV,55,12,823
+"So, till the judgment that yourself arise,",42,7,LV,55,13,824
+"You live in this, and dwell in lovers' eyes.",44,9,LV,55,14,825
+LVI,3,1,LVI,56,0,826
+"Sweet love, renew thy force; be it not said",43,9,LVI,56,1,827
+"Thy edge should blunter be than appetite,",41,7,LVI,56,2,828
+"Which but to-day by feeding is allay'd,",39,7,LVI,56,3,829
+To-morrow sharpened in his former might:,40,6,LVI,56,4,830
+"So, love, be thou, although to-day thou fill",44,8,LVI,56,5,831
+"Thy hungry eyes, even till they wink with fulness,",50,9,LVI,56,6,832
+"To-morrow see again, and do not kill",36,7,LVI,56,7,833
+"The spirit of love, with a perpetual dulness.",45,8,LVI,56,8,834
+Let this sad interim like the ocean be,38,8,LVI,56,9,835
+"Which parts the shore, where two contracted new",47,8,LVI,56,10,836
+"Come daily to the banks, that when they see",43,9,LVI,56,11,837
+"Return of love, more blest may be the view;",43,9,LVI,56,12,838
+"Or call it winter, which being full of care,",44,9,LVI,56,13,839
+"Makes summer's welcome, thrice more wished, more rare.",54,8,LVI,56,14,840
+LVII,4,1,LVII,57,0,841
+"Being your slave what should I do but tend,",43,9,LVII,57,1,842
+"Upon the hours, and times of your desire?",41,8,LVII,57,2,843
+I have no precious time at all to spend;,40,9,LVII,57,3,844
+"Nor services to do, till you require.",37,7,LVII,57,4,845
+"Nor dare I chide the world-without-end hour,",44,7,LVII,57,5,846
+"Whilst I, my sovereign, watch the clock for you,",48,9,LVII,57,6,847
+"Nor think the bitterness of absence sour,",41,7,LVII,57,7,848
+When you have bid your servant once adieu;,42,8,LVII,57,8,849
+Nor dare I question with my jealous thought,43,8,LVII,57,9,850
+"Where you may be, or your affairs suppose,",42,8,LVII,57,10,851
+"But, like a sad slave, stay and think of nought",47,10,LVII,57,11,852
+"Save, where you are, how happy you make those.",46,9,LVII,57,12,853
+"So true a fool is love, that in your will,",42,10,LVII,57,13,854
+"Though you do anything, he thinks no ill.",41,8,LVII,57,14,855
+LVIII,5,1,LVIII,58,0,856
+"That god forbid, that made me first your slave,",47,9,LVIII,58,1,857
+"I should in thought control your times of pleasure,",51,9,LVIII,58,2,858
+"Or at your hand the account of hours to crave,",46,10,LVIII,58,3,859
+"Being your vassal, bound to stay your leisure!",46,8,LVIII,58,4,860
+"O! let me suffer, being at your beck,",37,8,LVIII,58,5,861
+The imprison'd absence of your liberty;,39,6,LVIII,58,6,862
+"And patience, tame to sufferance, bide each check,",50,8,LVIII,58,7,863
+Without accusing you of injury.,31,5,LVIII,58,8,864
+"Be where you list, your charter is so strong",44,9,LVIII,58,9,865
+That you yourself may privilage your time,41,7,LVIII,58,10,866
+To what you will; to you it doth belong,39,9,LVIII,58,11,867
+Yourself to pardon of self-doing crime.,39,6,LVIII,58,12,868
+"I am to wait, though waiting so be hell,",40,9,LVIII,58,13,869
+Not blame your pleasure be it ill or well.,42,9,LVIII,58,14,870
+LIX,3,1,LIX,59,0,871
+"If there be nothing new, but that which is",42,9,LIX,59,1,872
+"Hath been before, how are our brains beguil'd,",46,8,LIX,59,2,873
+Which labouring for invention bear amiss,40,6,LIX,59,3,874
+The second burthen of a former child!,37,7,LIX,59,4,875
+"O! that record could with a backward look,",42,8,LIX,59,5,876
+"Even of five hundred courses of the sun,",40,8,LIX,59,6,877
+"Show me your image in some antique book,",40,8,LIX,59,7,878
+Since mind at first in character was done!,42,8,LIX,59,8,879
+That I might see what the old world could say,45,10,LIX,59,9,880
+To this composed wonder of your frame;,38,7,LIX,59,10,881
+"Wh'r we are mended, or wh'r better they,",40,8,LIX,59,11,882
+Or whether revolution be the same.,34,6,LIX,59,12,883
+"O! sure I am the wits of former days,",37,9,LIX,59,13,884
+To subjects worse have given admiring praise.,45,7,LIX,59,14,885
+LX,2,1,LX,60,0,886
+"Like as the waves make towards the pebbled shore,",49,9,LX,60,1,887
+So do our minutes hasten to their end;,38,8,LX,60,2,888
+"Each changing place with that which goes before,",48,8,LX,60,3,889
+In sequent toil all forwards do contend.,40,7,LX,60,4,890
+"Nativity, once in the main of light,",36,7,LX,60,5,891
+"Crawls to maturity, wherewith being crown'd,",44,6,LX,60,6,892
+"Crooked eclipses 'gainst his glory fight,",41,6,LX,60,7,893
+And Time that gave doth now his gift confound.,46,9,LX,60,8,894
+Time doth transfix the flourish set on youth,44,8,LX,60,9,895
+"And delves the parallels in beauty's brow,",42,7,LX,60,10,896
+"Feeds on the rarities of nature's truth,",40,7,LX,60,11,897
+And nothing stands but for his scythe to mow:,45,9,LX,60,12,898
+"And yet to times in hope, my verse shall stand.",47,10,LX,60,13,899
+"Praising thy worth, despite his cruel hand.",43,7,LX,60,14,900
+LXI,3,1,LXI,61,0,901
+"Is it thy will, thy image should keep open",42,9,LXI,61,1,902
+My heavy eyelids to the weary night?,36,7,LXI,61,2,903
+"Dost thou desire my slumbers should be broken,",46,8,LXI,61,3,904
+While shadows like to thee do mock my sight?,44,9,LXI,61,4,905
+Is it thy spirit that thou send'st from thee,44,9,LXI,61,5,906
+"So far from home into my deeds to pry,",38,9,LXI,61,6,907
+"To find out shames and idle hours in me,",40,9,LXI,61,7,908
+The scope and tenure of thy jealousy?,37,7,LXI,61,8,909
+"O, no! thy love, though much, is not so great:",46,10,LXI,61,9,910
+It is my love that keeps mine eye awake:,40,9,LXI,61,10,911
+"Mine own true love that doth my rest defeat,",44,9,LXI,61,11,912
+To play the watchman ever for thy sake:,39,8,LXI,61,12,913
+"For thee watch I, whilst thou dost wake elsewhere,",50,9,LXI,61,13,914
+"From me far off, with others all too near.",42,9,LXI,61,14,915
+LXII,4,1,LXII,62,0,916
+Sin of self-love possesseth all mine eye,40,7,LXII,62,1,917
+"And all my soul, and all my every part;",39,9,LXII,62,2,918
+"And for this sin there is no remedy,",36,8,LXII,62,3,919
+It is so grounded inward in my heart.,37,8,LXII,62,4,920
+"Methinks no face so gracious is as mine,",40,8,LXII,62,5,921
+"No shape so true, no truth of such account;",43,9,LXII,62,6,922
+"And for myself mine own worth do define,",40,8,LXII,62,7,923
+As I all other in all worths surmount.,38,8,LXII,62,8,924
+But when my glass shows me myself indeed,40,8,LXII,62,9,925
+"Beated and chopp'd with tanned antiquity,",41,6,LXII,62,10,926
+Mine own self-love quite contrary I read;,41,7,LXII,62,11,927
+Self so self-loving were iniquity.,34,5,LXII,62,12,928
+"'Tis thee,--myself,--that for myself I praise,",46,6,LXII,62,13,929
+Painting my age with beauty of thy days.,40,8,LXII,62,14,930
+LXIII,5,1,LXIII,63,0,931
+"Against my love shall be as I am now,",37,9,LXIII,63,1,932
+With Time's injurious hand crush'd and o'erworn;,48,7,LXIII,63,2,933
+When hours have drain'd his blood and fill'd his brow,53,10,LXIII,63,3,934
+With lines and wrinkles; when his youthful morn,47,8,LXIII,63,4,935
+Hath travell'd on to age's steepy night;,40,7,LXIII,63,5,936
+And all those beauties whereof now he's king,44,8,LXIII,63,6,937
+"Are vanishing, or vanished out of sight,",40,7,LXIII,63,7,938
+Stealing away the treasure of his spring;,41,7,LXIII,63,8,939
+For such a time do I now fortify,32,8,LXIII,63,9,940
+"Against confounding age's cruel knife,",38,5,LXIII,63,10,941
+That he shall never cut from memory,35,7,LXIII,63,11,942
+"My sweet love's beauty, though my lover's life:",47,8,LXIII,63,12,943
+"His beauty shall in these black lines be seen,",46,9,LXIII,63,13,944
+"And they shall live, and he in them still green.",48,10,LXIII,63,14,945
+LXIV,4,1,LXIV,64,0,946
+When I have seen by Time's fell hand defac'd,44,9,LXIV,64,1,947
+The rich-proud cost of outworn buried age;,42,7,LXIV,64,2,948
+"When sometime lofty towers I see down-raz'd,",44,7,LXIV,64,3,949
+And brass eternal slave to mortal rage;,39,7,LXIV,64,4,950
+When I have seen the hungry ocean gain,38,8,LXIV,64,5,951
+"Advantage on the kingdom of the shore,",38,7,LXIV,64,6,952
+"And the firm soil win of the watery main,",41,9,LXIV,64,7,953
+"Increasing store with loss, and loss with store;",48,8,LXIV,64,8,954
+"When I have seen such interchange of state,",43,8,LXIV,64,9,955
+"Or state itself confounded, to decay;",37,6,LXIV,64,10,956
+Ruin hath taught me thus to ruminate--,38,7,LXIV,64,11,957
+That Time will come and take my love away.,42,9,LXIV,64,12,958
+This thought is as a death which cannot choose,46,9,LXIV,64,13,959
+"But weep to have, that which it fears to lose.",46,10,LXIV,64,14,960
+LXV,3,1,LXV,65,0,961
+"Since brass, nor stone, nor earth, nor boundless sea,",53,9,LXV,65,1,962
+"But sad mortality o'ersways their power,",40,6,LXV,65,2,963
+"How with this rage shall beauty hold a plea,",44,9,LXV,65,3,964
+Whose action is no stronger than a flower?,42,8,LXV,65,4,965
+"O! how shall summer's honey breath hold out,",44,8,LXV,65,5,966
+"Against the wrackful siege of battering days,",45,7,LXV,65,6,967
+"When rocks impregnable are not so stout,",40,7,LXV,65,7,968
+Nor gates of steel so strong but Time decays?,45,9,LXV,65,8,969
+"O fearful meditation! where, alack,",35,5,LXV,65,9,970
+Shall Time's best jewel from Time's chest lie hid?,50,9,LXV,65,10,971
+Or what strong hand can hold his swift foot back?,49,10,LXV,65,11,972
+Or who his spoil of beauty can forbid?,38,8,LXV,65,12,973
+"O! none, unless this miracle have might,",40,7,LXV,65,13,974
+That in black ink my love may still shine bright.,49,10,LXV,65,14,975
+LXVI,4,1,LXVI,66,0,976
+"Tired with all these, for restful death I cry,",46,9,LXVI,66,1,977
+"As to behold desert a beggar born,",34,7,LXVI,66,2,978
+"And needy nothing trimm'd in jollity,",37,6,LXVI,66,3,979
+"And purest faith unhappily forsworn,",36,5,LXVI,66,4,980
+"And gilded honour shamefully misplac'd,",39,5,LXVI,66,5,981
+"And maiden virtue rudely strumpeted,",36,5,LXVI,66,6,982
+"And right perfection wrongfully disgrac'd,",42,5,LXVI,66,7,983
+And strength by limping sway disabled,37,6,LXVI,66,8,984
+"And art made tongue-tied by authority,",38,6,LXVI,66,9,985
+"And folly--doctor-like--controlling skill,",42,3,LXVI,66,10,986
+"And simple truth miscall'd simplicity,",38,5,LXVI,66,11,987
+And captive good attending captain ill:,39,6,LXVI,66,12,988
+"Tir'd with all these, from these would I be gone,",49,10,LXVI,66,13,989
+"Save that, to die, I leave my love alone.",41,9,LXVI,66,14,990
+LXVII,5,1,LXVII,67,0,991
+"Ah! wherefore with infection should he live,",44,7,LXVII,67,1,992
+"And with his presence grace impiety,",36,6,LXVII,67,2,993
+"That sin by him advantage should achieve,",41,7,LXVII,67,3,994
+And lace itself with his society?,33,6,LXVII,67,4,995
+"Why should false painting imitate his cheek,",44,7,LXVII,67,5,996
+And steel dead seeming of his living hue?,41,8,LXVII,67,6,997
+Why should poor beauty indirectly seek,38,6,LXVII,67,7,998
+"Roses of shadow, since his rose is true?",40,8,LXVII,67,8,999
+"Why should he live, now Nature bankrupt is,",43,8,LXVII,67,9,1000
+Beggar'd of blood to blush through lively veins?,48,8,LXVII,67,10,1001
+"For she hath no exchequer now but his,",38,8,LXVII,67,11,1002
+"And proud of many, lives upon his gains.",40,8,LXVII,67,12,1003
+"O! him she stores, to show what wealth she had",46,10,LXVII,67,13,1004
+"In days long since, before these last so bad.",45,9,LXVII,67,14,1005
+LXVIII,6,1,LXVIII,68,0,1006
+"Thus is his cheek the map of days outworn,",42,9,LXVIII,68,1,1007
+"When beauty lived and died as flowers do now,",45,9,LXVIII,68,2,1008
+"Before these bastard signs of fair were born,",45,8,LXVIII,68,3,1009
+Or durst inhabit on a living brow;,34,7,LXVIII,68,4,1010
+"Before the golden tresses of the dead,",38,7,LXVIII,68,5,1011
+"The right of sepulchres, were shorn away,",41,7,LXVIII,68,6,1012
+To live a second life on second head;,37,8,LXVIII,68,7,1013
+Ere beauty's dead fleece made another gay:,42,7,LXVIII,68,8,1014
+"In him those holy antique hours are seen,",41,8,LXVIII,68,9,1015
+"Without all ornament, itself and true,",38,6,LXVIII,68,10,1016
+"Making no summer of another's green,",36,6,LXVIII,68,11,1017
+Robbing no old to dress his beauty new;,39,8,LXVIII,68,12,1018
+"And him as for a map doth Nature store,",39,9,LXVIII,68,13,1019
+To show false Art what beauty was of yore.,42,9,LXVIII,68,14,1020
+LXIX,4,1,LXIX,69,0,1021
+Those parts of thee that the world's eye doth view,50,10,LXIX,69,1,1022
+Want nothing that the thought of hearts can mend;,49,9,LXIX,69,2,1023
+"All tongues--the voice of souls--give thee that due,",52,8,LXIX,69,3,1024
+"Uttering bare truth, even so as foes commend.",45,8,LXIX,69,4,1025
+Thy outward thus with outward praise is crown'd;,48,8,LXIX,69,5,1026
+"But those same tongues, that give thee so thine own,",52,10,LXIX,69,6,1027
+In other accents do this praise confound,40,7,LXIX,69,7,1028
+By seeing farther than the eye hath shown.,42,8,LXIX,69,8,1029
+"They look into the beauty of thy mind,",38,8,LXIX,69,9,1030
+And that in guess they measure by thy deeds;,44,9,LXIX,69,10,1031
+"Then--churls--their thoughts, although their eyes were kind,",60,7,LXIX,69,11,1032
+To thy fair flower add the rank smell of weeds:,47,10,LXIX,69,12,1033
+"But why thy odour matcheth not thy show,",40,8,LXIX,69,13,1034
+"The soil is this, that thou dost common grow.",45,9,LXIX,69,14,1035
+LXX,3,1,LXX,70,0,1036
+"That thou art blam'd shall not be thy defect,",45,9,LXX,70,1,1037
+For slander's mark was ever yet the fair;,41,8,LXX,70,2,1038
+"The ornament of beauty is suspect,",34,6,LXX,70,3,1039
+A crow that flies in heaven's sweetest air.,43,8,LXX,70,4,1040
+"So thou be good, slander doth but approve",41,8,LXX,70,5,1041
+Thy worth the greater being woo'd of time;,42,8,LXX,70,6,1042
+"For canker vice the sweetest buds doth love,",44,8,LXX,70,7,1043
+And thou present'st a pure unstained prime.,43,7,LXX,70,8,1044
+Thou hast passed by the ambush of young days,44,9,LXX,70,9,1045
+"Either not assail'd, or victor being charg'd;",45,7,LXX,70,10,1046
+"Yet this thy praise cannot be so thy praise,",44,9,LXX,70,11,1047
+"To tie up envy, evermore enlarg'd,",34,6,LXX,70,12,1048
+"If some suspect of ill mask'd not thy show,",43,9,LXX,70,13,1049
+Then thou alone kingdoms of hearts shouldst owe.,48,8,LXX,70,14,1050
+LXXI,4,1,LXXI,71,0,1051
+No longer mourn for me when I am dead,37,9,LXXI,71,1,1052
+Than you shall hear the surly sullen bell,41,8,LXXI,71,2,1053
+Give warning to the world that I am fled,40,9,LXXI,71,3,1054
+From this vile world with vilest worms to dwell:,48,9,LXXI,71,4,1055
+"Nay, if you read this line, remember not",40,8,LXXI,71,5,1056
+"The hand that writ it, for I love you so,",41,10,LXXI,71,6,1057
+"That I in your sweet thoughts would be forgot,",46,9,LXXI,71,7,1058
+If thinking on me then should make you woe.,43,9,LXXI,71,8,1059
+"O! if,--I say you look upon this verse,",39,8,LXXI,71,9,1060
+"When I perhaps compounded am with clay,",39,7,LXXI,71,10,1061
+Do not so much as my poor name rehearse;,40,9,LXXI,71,11,1062
+But let your love even with my life decay;,42,9,LXXI,71,12,1063
+"Lest the wise world should look into your moan,",47,9,LXXI,71,13,1064
+And mock you with me after I am gone.,37,9,LXXI,71,14,1065
+LXXII,5,1,LXXII,72,0,1066
+O! lest the world should task you to recite,43,9,LXXII,72,1,1067
+"What merit lived in me, that you should love",44,9,LXXII,72,2,1068
+"After my death,--dear love, forget me quite,",44,7,LXXII,72,3,1069
+For you in me can nothing worthy prove;,39,8,LXXII,72,4,1070
+"Unless you would devise some virtuous lie,",42,7,LXXII,72,5,1071
+"To do more for me than mine own desert,",39,9,LXXII,72,6,1072
+And hang more praise upon deceased I,36,7,LXXII,72,7,1073
+Than niggard truth would willingly impart:,42,6,LXXII,72,8,1074
+O! lest your true love may seem false in this,45,10,LXXII,72,9,1075
+"That you for love speak well of me untrue,",42,9,LXXII,72,10,1076
+"My name be buried where my body is,",35,8,LXXII,72,11,1077
+And live no more to shame nor me nor you.,41,10,LXXII,72,12,1078
+"For I am shamed by that which I bring forth,",44,10,LXXII,72,13,1079
+"And so should you, to love things nothing worth.",48,9,LXXII,72,14,1080
+LXXIII,6,1,LXXIII,73,0,1081
+That time of year thou mayst in me behold,41,9,LXXIII,73,1,1082
+"When yellow leaves, or none, or few, do hang",44,9,LXXIII,73,2,1083
+"Upon those boughs which shake against the cold,",47,8,LXXIII,73,3,1084
+"Bare ruin'd choirs, where late the sweet birds sang.",52,9,LXXIII,73,4,1085
+In me thou see'st the twilight of such day,42,9,LXXIII,73,5,1086
+As after sunset fadeth in the west;,35,7,LXXIII,73,6,1087
+"Which by and by black night doth take away,",43,9,LXXIII,73,7,1088
+"Death's second self, that seals up all in rest.",47,9,LXXIII,73,8,1089
+"In me thou see'st the glowing of such fire,",43,9,LXXIII,73,9,1090
+"That on the ashes of his youth doth lie,",40,9,LXXIII,73,10,1091
+"As the death-bed, whereon it must expire,",41,7,LXXIII,73,11,1092
+Consum'd with that which it was nourish'd by.,45,8,LXXIII,73,12,1093
+"This thou perceiv'st, which makes thy love more strong,",55,9,LXXIII,73,13,1094
+"To love that well, which thou must leave ere long.",50,10,LXXIII,73,14,1095
+LXXIV,5,1,LXXIV,74,0,1096
+But be contented: when that fell arrest,39,7,LXXIV,74,1,1097
+"Without all bail shall carry me away,",37,7,LXXIV,74,2,1098
+"My life hath in this line some interest,",40,8,LXXIV,74,3,1099
+Which for memorial still with thee shall stay.,46,8,LXXIV,74,4,1100
+"When thou reviewest this, thou dost review",42,7,LXXIV,74,5,1101
+The very part was consecrate to thee:,37,7,LXXIV,74,6,1102
+"The earth can have but earth, which is his due;",47,10,LXXIV,74,7,1103
+"My spirit is thine, the better part of me:",42,9,LXXIV,74,8,1104
+"So then thou hast but lost the dregs of life,",45,10,LXXIV,74,9,1105
+"The prey of worms, my body being dead;",38,8,LXXIV,74,10,1106
+"The coward conquest of a wretch's knife,",40,7,LXXIV,74,11,1107
+Too base of thee to be remembered.,34,7,LXXIV,74,12,1108
+"The worth of that is that which it contains,",44,9,LXXIV,74,13,1109
+"And that is this, and this with thee remains.",45,9,LXXIV,74,14,1110
+LXXV,4,1,LXXV,75,0,1111
+"So are you to my thoughts as food to life,",42,10,LXXV,75,1,1112
+Or as sweet-season'd showers are to the ground;,47,8,LXXV,75,2,1113
+And for the peace of you I hold such strife,43,10,LXXV,75,3,1114
+As 'twixt a miser and his wealth is found.,42,9,LXXV,75,4,1115
+"Now proud as an enjoyer, and anon",33,7,LXXV,75,5,1116
+Doubting the filching age will steal his treasure;,50,8,LXXV,75,6,1117
+"Now counting best to be with you alone,",39,8,LXXV,75,7,1118
+Then better'd that the world may see my pleasure:,49,9,LXXV,75,8,1119
+"Sometime all full with feasting on your sight,",46,8,LXXV,75,9,1120
+And by and by clean starved for a look;,39,9,LXXV,75,10,1121
+"Possessing or pursuing no delight,",34,5,LXXV,75,11,1122
+"Save what is had, or must from you be took.",43,10,LXXV,75,12,1123
+"Thus do I pine and surfeit day by day,",38,9,LXXV,75,13,1124
+"Or gluttoning on all, or all away.",34,7,LXXV,75,14,1125
+LXXVI,5,1,LXXVI,76,0,1126
+"Why is my verse so barren of new pride,",39,9,LXXVI,76,1,1127
+So far from variation or quick change?,38,7,LXXVI,76,2,1128
+Why with the time do I not glance aside,39,9,LXXVI,76,3,1129
+"To new-found methods, and to compounds strange?",47,7,LXXVI,76,4,1130
+"Why write I still all one, ever the same,",41,9,LXXVI,76,5,1131
+"And keep invention in a noted weed,",35,7,LXXVI,76,6,1132
+"That every word doth almost tell my name,",41,8,LXXVI,76,7,1133
+"Showing their birth, and where they did proceed?",48,8,LXXVI,76,8,1134
+"O! know sweet love I always write of you,",41,9,LXXVI,76,9,1135
+And you and love are still my argument;,39,8,LXXVI,76,10,1136
+"So all my best is dressing old words new,",41,9,LXXVI,76,11,1137
+Spending again what is already spent:,37,6,LXXVI,76,12,1138
+"For as the sun is daily new and old,",36,9,LXXVI,76,13,1139
+So is my love still telling what is told.,41,9,LXXVI,76,14,1140
+LXXVII,6,1,LXXVII,77,0,1141
+"Thy glass will show thee how thy beauties wear,",47,9,LXXVII,77,1,1142
+Thy dial how thy precious minutes waste;,40,7,LXXVII,77,2,1143
+"These vacant leaves thy mind's imprint will bear,",49,8,LXXVII,77,3,1144
+"And of this book, this learning mayst thou taste.",49,9,LXXVII,77,4,1145
+The wrinkles which thy glass will truly show,44,8,LXXVII,77,5,1146
+Of mouthed graves will give thee memory;,40,7,LXXVII,77,6,1147
+Thou by thy dial's shady stealth mayst know,43,8,LXXVII,77,7,1148
+Time's thievish progress to eternity.,37,5,LXXVII,77,8,1149
+"Look! what thy memory cannot contain,",37,6,LXXVII,77,9,1150
+"Commit to these waste blanks, and thou shalt find",49,9,LXXVII,77,10,1151
+"Those children nursed, deliver'd from thy brain,",48,7,LXXVII,77,11,1152
+To take a new acquaintance of thy mind.,39,8,LXXVII,77,12,1153
+"These offices, so oft as thou wilt look,",40,8,LXXVII,77,13,1154
+Shall profit thee and much enrich thy book.,43,8,LXXVII,77,14,1155
+LXXVIII,7,1,LXXVIII,78,0,1156
+"So oft have I invoked thee for my Muse,",39,9,LXXVIII,78,1,1157
+And found such fair assistance in my verse,42,8,LXXVIII,78,2,1158
+As every alien pen hath got my use,34,8,LXXVIII,78,3,1159
+And under thee their poesy disperse.,36,6,LXXVIII,78,4,1160
+"Thine eyes, that taught the dumb on high to sing",48,10,LXXVIII,78,5,1161
+"And heavy ignorance aloft to fly,",33,6,LXXVIII,78,6,1162
+Have added feathers to the learned's wing,41,7,LXXVIII,78,7,1163
+And given grace a double majesty.,33,6,LXXVIII,78,8,1164
+"Yet be most proud of that which I compile,",42,9,LXXVIII,78,9,1165
+"Whose influence is thine, and born of thee:",43,8,LXXVIII,78,10,1166
+"In others' works thou dost but mend the style,",46,9,LXXVIII,78,11,1167
+And arts with thy sweet graces graced be;,41,8,LXXVIII,78,12,1168
+"But thou art all my art, and dost advance",41,9,LXXVIII,78,13,1169
+"As high as learning, my rude ignorance.",39,7,LXXVIII,78,14,1170
+LXXIX,5,1,LXXIX,79,0,1171
+"Whilst I alone did call upon thy aid,",37,8,LXXIX,79,1,1172
+My verse alone had all thy gentle grace;,40,8,LXXIX,79,2,1173
+"But now my gracious numbers are decay'd,",40,7,LXXIX,79,3,1174
+And my sick Muse doth give an other place.,42,9,LXXIX,79,4,1175
+"I grant, sweet love, thy lovely argument",40,7,LXXIX,79,5,1176
+Deserves the travail of a worthier pen;,39,7,LXXIX,79,6,1177
+Yet what of thee thy poet doth invent,37,8,LXXIX,79,7,1178
+"He robs thee of, and pays it thee again.",40,9,LXXIX,79,8,1179
+"He lends thee virtue, and he stole that word",44,9,LXXIX,79,9,1180
+"From thy behaviour; beauty doth he give,",40,7,LXXIX,79,10,1181
+And found it in thy cheek: he can afford,40,9,LXXIX,79,11,1182
+"No praise to thee, but what in thee doth live.",46,10,LXXIX,79,12,1183
+"Then thank him not for that which he doth say,",46,10,LXXIX,79,13,1184
+"Since what he owes thee, thou thyself dost pay.",47,9,LXXIX,79,14,1185
+LXXX,4,1,LXXX,80,0,1186
+"O! how I faint when I of you do write,",38,10,LXXX,80,1,1187
+"Knowing a better spirit doth use your name,",43,8,LXXX,80,2,1188
+"And in the praise thereof spends all his might,",47,9,LXXX,80,3,1189
+To make me tongue-tied speaking of your fame!,45,8,LXXX,80,4,1190
+"But since your worth--wide as the ocean is,--",45,8,LXXX,80,5,1191
+"The humble as the proudest sail doth bear,",42,8,LXXX,80,6,1192
+"My saucy bark, inferior far to his,",35,7,LXXX,80,7,1193
+On your broad main doth wilfully appear.,40,7,LXXX,80,8,1194
+"Your shallowest help will hold me up afloat,",44,8,LXXX,80,9,1195
+Whilst he upon your soundless deep doth ride;,45,8,LXXX,80,10,1196
+"Or, being wrack'd, I am a worthless boat,",41,8,LXXX,80,11,1197
+"He of tall building, and of goodly pride:",41,8,LXXX,80,12,1198
+"Then if he thrive and I be cast away,",37,9,LXXX,80,13,1199
+"The worst was this,--my love was my decay.",42,8,LXXX,80,14,1200
+LXXXI,5,1,LXXXI,81,0,1201
+"Or I shall live your epitaph to make,",37,8,LXXXI,81,1,1202
+Or you survive when I in earth am rotten;,41,9,LXXXI,81,2,1203
+"From hence your memory death cannot take,",41,7,LXXXI,81,3,1204
+Although in me each part will be forgotten.,43,8,LXXXI,81,4,1205
+"Your name from hence immortal life shall have,",46,8,LXXXI,81,5,1206
+"Though I, once gone, to all the world must die:",47,10,LXXXI,81,6,1207
+"The earth can yield me but a common grave,",42,9,LXXXI,81,7,1208
+When you entombed in men's eyes shall lie.,42,8,LXXXI,81,8,1209
+"Your monument shall be my gentle verse,",39,7,LXXXI,81,9,1210
+Which eyes not yet created shall o'er-read;,43,7,LXXXI,81,10,1211
+"And tongues to be, your being shall rehearse,",45,8,LXXXI,81,11,1212
+When all the breathers of this world are dead;,46,9,LXXXI,81,12,1213
+"You still shall live,--such virtue hath my pen,--",49,8,LXXXI,81,13,1214
+"Where breath most breathes, even in the mouths of men.",54,10,LXXXI,81,14,1215
+LXXXII,6,1,LXXXII,82,0,1216
+"I grant thou wert not married to my Muse,",41,9,LXXXII,82,1,1217
+And therefore mayst without attaint o'erlook,44,6,LXXXII,82,2,1218
+The dedicated words which writers use,37,6,LXXXII,82,3,1219
+"Of their fair subject, blessing every book.",43,7,LXXXII,82,4,1220
+"Thou art as fair in knowledge as in hue,",40,9,LXXXII,82,5,1221
+Finding thy worth a limit past my praise;,41,8,LXXXII,82,6,1222
+And therefore art enforced to seek anew,39,7,LXXXII,82,7,1223
+Some fresher stamp of the time-bettering days.,46,7,LXXXII,82,8,1224
+"And do so, love; yet when they have devis'd,",44,9,LXXXII,82,9,1225
+"What strained touches rhetoric can lend,",40,6,LXXXII,82,10,1226
+"Thou truly fair, wert truly sympathiz'd",39,6,LXXXII,82,11,1227
+"In true plain words, by thy true-telling friend;",48,8,LXXXII,82,12,1228
+And their gross painting might be better us'd,45,8,LXXXII,82,13,1229
+Where cheeks need blood; in thee it is abus'd.,46,9,LXXXII,82,14,1230
+LXXXIII,7,1,LXXXIII,83,0,1231
+"I never saw that you did painting need,",39,8,LXXXIII,83,1,1232
+And therefore to your fair no painting set;,43,8,LXXXIII,83,2,1233
+"I found, or thought I found, you did exceed",43,9,LXXXIII,83,3,1234
+That barren tender of a poet's debt:,36,7,LXXXIII,83,4,1235
+"And therefore have I slept in your report,",42,8,LXXXIII,83,5,1236
+"That you yourself, being extant, well might show",48,8,LXXXIII,83,6,1237
+"How far a modern quill doth come too short,",43,9,LXXXIII,83,7,1238
+"Speaking of worth, what worth in you doth grow.",47,9,LXXXIII,83,8,1239
+"This silence for my sin you did impute,",39,8,LXXXIII,83,9,1240
+Which shall be most my glory being dumb;,40,8,LXXXIII,83,10,1241
+"For I impair not beauty being mute,",35,7,LXXXIII,83,11,1242
+"When others would give life, and bring a tomb.",46,9,LXXXIII,83,12,1243
+There lives more life in one of your fair eyes,46,10,LXXXIII,83,13,1244
+Than both your poets can in praise devise.,42,8,LXXXIII,83,14,1245
+LXXXIV,6,1,LXXXIV,84,0,1246
+"Who is it that says most, which can say more,",45,10,LXXXIV,84,1,1247
+"Than this rich praise,--that you alone, are you?",48,8,LXXXIV,84,2,1248
+In whose confine immured is the store,37,7,LXXXIV,84,3,1249
+Which should example where your equal grew.,43,7,LXXXIV,84,4,1250
+Lean penury within that pen doth dwell,38,7,LXXXIV,84,5,1251
+That to his subject lends not some small glory;,47,9,LXXXIV,84,6,1252
+"But he that writes of you, if he can tell",41,10,LXXXIV,84,7,1253
+"That you are you, so dignifies his story,",41,8,LXXXIV,84,8,1254
+"Let him but copy what in you is writ,",37,9,LXXXIV,84,9,1255
+"Not making worse what nature made so clear,",43,8,LXXXIV,84,10,1256
+"And such a counterpart shall fame his wit,",42,8,LXXXIV,84,11,1257
+Making his style admired every where.,37,6,LXXXIV,84,12,1258
+"You to your beauteous blessings add a curse,",44,8,LXXXIV,84,13,1259
+"Being fond on praise, which makes your praises worse.",53,9,LXXXIV,84,14,1260
+LXXXV,5,1,LXXXV,85,0,1261
+"My tongue-tied Muse in manners holds her still,",47,8,LXXXV,85,1,1262
+"While comments of your praise richly compil'd,",46,7,LXXXV,85,2,1263
+"Reserve their character with golden quill,",42,6,LXXXV,85,3,1264
+And precious phrase by all the Muses fil'd.,43,8,LXXXV,85,4,1265
+"I think good thoughts, whilst others write good words,",54,9,LXXXV,85,5,1266
+And like unlettered clerk still cry 'Amen',42,7,LXXXV,85,6,1267
+"To every hymn that able spirit affords,",39,7,LXXXV,85,7,1268
+In polish'd form of well-refined pen.,37,6,LXXXV,85,8,1269
+"Hearing you praised, I say ''tis so, 'tis true,'",48,9,LXXXV,85,9,1270
+And to the most of praise add something more;,45,9,LXXXV,85,10,1271
+"But that is in my thought, whose love to you,",45,10,LXXXV,85,11,1272
+"Though words come hindmost, holds his rank before.",50,8,LXXXV,85,12,1273
+"Then others, for the breath of words respect,",45,8,LXXXV,85,13,1274
+"Me for my dumb thoughts, speaking in effect.",44,8,LXXXV,85,14,1275
+LXXXVI,6,1,LXXXVI,86,0,1276
+"Was it the proud full sail of his great verse,",46,10,LXXXVI,86,1,1277
+"Bound for the prize of all too precious you,",44,9,LXXXVI,86,2,1278
+"That did my ripe thoughts in my brain inhearse,",47,9,LXXXVI,86,3,1279
+Making their tomb the womb wherein they grew?,45,8,LXXXVI,86,4,1280
+"Was it his spirit, by spirits taught to write,",46,9,LXXXVI,86,5,1281
+"Above a mortal pitch, that struck me dead?",42,8,LXXXVI,86,6,1282
+"No, neither he, nor his compeers by night",41,8,LXXXVI,86,7,1283
+"Giving him aid, my verse astonished.",36,6,LXXXVI,86,8,1284
+"He, nor that affable familiar ghost",35,6,LXXXVI,86,9,1285
+"Which nightly gulls him with intelligence,",42,6,LXXXVI,86,10,1286
+As victors of my silence cannot boast;,38,7,LXXXVI,86,11,1287
+I was not sick of any fear from thence:,39,9,LXXXVI,86,12,1288
+"But when your countenance fill'd up his line,",45,8,LXXXVI,86,13,1289
+Then lacked I matter; that enfeebled mine.,42,7,LXXXVI,86,14,1290
+LXXXVII,7,1,LXXXVII,87,0,1291
+"Farewell! thou art too dear for my possessing,",46,8,LXXXVII,87,1,1292
+"And like enough thou know'st thy estimate,",42,7,LXXXVII,87,2,1293
+The charter of thy worth gives thee releasing;,46,8,LXXXVII,87,3,1294
+My bonds in thee are all determinate.,37,7,LXXXVII,87,4,1295
+For how do I hold thee but by thy granting?,43,10,LXXXVII,87,5,1296
+And for that riches where is my deserving?,42,8,LXXXVII,87,6,1297
+"The cause of this fair gift in me is wanting,",45,10,LXXXVII,87,7,1298
+And so my patent back again is swerving.,40,8,LXXXVII,87,8,1299
+"Thy self thou gav'st, thy own worth then not knowing,",53,10,LXXXVII,87,9,1300
+"Or me to whom thou gav'st it, else mistaking;",45,9,LXXXVII,87,10,1301
+"So thy great gift, upon misprision growing,",43,7,LXXXVII,87,11,1302
+"Comes home again, on better judgement making.",45,7,LXXXVII,87,12,1303
+"Thus have I had thee, as a dream doth flatter,",46,10,LXXXVII,87,13,1304
+"In sleep a king, but waking no such matter.",43,9,LXXXVII,87,14,1305
+LXXXVIII,8,1,LXXXVIII,88,0,1306
+"When thou shalt be dispos'd to set me light,",44,9,LXXXVIII,88,1,1307
+"And place my merit in the eye of scorn,",39,9,LXXXVIII,88,2,1308
+"Upon thy side, against myself I'll fight,",41,7,LXXXVIII,88,3,1309
+"And prove thee virtuous, though thou art forsworn.",50,8,LXXXVIII,88,4,1310
+"With mine own weakness, being best acquainted,",46,7,LXXXVIII,88,5,1311
+Upon thy part I can set down a story,36,9,LXXXVIII,88,6,1312
+"Of faults conceal'd, wherein I am attainted;",44,7,LXXXVIII,88,7,1313
+That thou in losing me shalt win much glory:,44,9,LXXXVIII,88,8,1314
+And I by this will be a gainer too;,35,9,LXXXVIII,88,9,1315
+"For bending all my loving thoughts on thee,",43,8,LXXXVIII,88,10,1316
+"The injuries that to myself I do,",33,7,LXXXVIII,88,11,1317
+"Doing thee vantage, double-vantage me.",38,5,LXXXVIII,88,12,1318
+"Such is my love, to thee I so belong,",37,9,LXXXVIII,88,13,1319
+"That for thy right, myself will bear all wrong.",47,9,LXXXVIII,88,14,1320
+LXXXIX,6,1,LXXXIX,89,0,1321
+"Say that thou didst forsake me for some fault,",46,9,LXXXIX,89,1,1322
+And I will comment upon that offence:,37,7,LXXXIX,89,2,1323
+"Speak of my lameness, and I straight will halt,",47,9,LXXXIX,89,3,1324
+Against thy reasons making no defence.,38,6,LXXXIX,89,4,1325
+"Thou canst not love disgrace me half so ill,",44,9,LXXXIX,89,5,1326
+"To set a form upon desired change,",34,7,LXXXIX,89,6,1327
+"As I'll myself disgrace; knowing thy will,",42,7,LXXXIX,89,7,1328
+"I will acquaintance strangle, and look strange;",47,7,LXXXIX,89,8,1329
+Be absent from thy walks; and in my tongue,42,9,LXXXIX,89,9,1330
+"Thy sweet beloved name no more shall dwell,",43,8,LXXXIX,89,10,1331
+"Lest I, too much profane, should do it wrong,",45,9,LXXXIX,89,11,1332
+And haply of our old acquaintance tell.,39,7,LXXXIX,89,12,1333
+"For thee, against my self I'll vow debate,",42,8,LXXXIX,89,13,1334
+For I must ne'er love him whom thou dost hate.,46,10,LXXXIX,89,14,1335
+XC,2,1,XC,90,0,1336
+"Then hate me when thou wilt; if ever, now;",42,9,XC,90,1,1337
+"Now, while the world is bent my deeds to cross,",47,10,XC,90,2,1338
+"Join with the spite of fortune, make me bow,",44,9,XC,90,3,1339
+And do not drop in for an after-loss:,37,8,XC,90,4,1340
+"Ah! do not, when my heart hath 'scap'd this sorrow,",51,10,XC,90,5,1341
+Come in the rearward of a conquer'd woe;,40,8,XC,90,6,1342
+"Give not a windy night a rainy morrow,",38,8,XC,90,7,1343
+To linger out a purpos'd overthrow.,35,6,XC,90,8,1344
+"If thou wilt leave me, do not leave me last,",44,10,XC,90,9,1345
+"When other petty griefs have done their spite,",46,8,XC,90,10,1346
+But in the onset come: so shall I taste,39,9,XC,90,11,1347
+At first the very worst of fortune's might;,43,8,XC,90,12,1348
+"And other strains of woe, which now seem woe,",45,9,XC,90,13,1349
+"Compar'd with loss of thee, will not seem so.",45,9,XC,90,14,1350
+XCI,3,1,XCI,91,0,1351
+"Some glory in their birth, some in their skill,",47,9,XCI,91,1,1352
+"Some in their wealth, some in their body's force,",49,9,XCI,91,2,1353
+Some in their garments though new-fangled ill;,46,7,XCI,91,3,1354
+"Some in their hawks and hounds, some in their horse;",52,10,XCI,91,4,1355
+"And every humour hath his adjunct pleasure,",43,7,XCI,91,5,1356
+Wherein it finds a joy above the rest:,38,8,XCI,91,6,1357
+"But these particulars are not my measure,",41,7,XCI,91,7,1358
+All these I better in one general best.,39,8,XCI,91,8,1359
+"Thy love is better than high birth to me,",41,9,XCI,91,9,1360
+"Richer than wealth, prouder than garments' costs,",49,7,XCI,91,10,1361
+Of more delight than hawks and horses be;,41,8,XCI,91,11,1362
+"And having thee, of all men's pride I boast:",44,9,XCI,91,12,1363
+"Wretched in this alone, that thou mayst take",44,8,XCI,91,13,1364
+"All this away, and me most wretchcd make.",41,8,XCI,91,14,1365
+XCII,4,1,XCII,92,0,1366
+"But do thy worst to steal thyself away,",39,8,XCII,92,1,1367
+For term of life thou art assured mine;,39,8,XCII,92,2,1368
+"And life no longer than thy love will stay,",43,9,XCII,92,3,1369
+For it depends upon that love of thine.,39,8,XCII,92,4,1370
+"Then need I not to fear the worst of wrongs,",44,10,XCII,92,5,1371
+When in the least of them my life hath end.,43,10,XCII,92,6,1372
+I see a better state to me belongs,34,8,XCII,92,7,1373
+Than that which on thy humour doth depend:,42,8,XCII,92,8,1374
+"Thou canst not vex me with inconstant mind,",43,8,XCII,92,9,1375
+Since that my life on thy revolt doth lie.,42,9,XCII,92,10,1376
+"O! what a happy title do I find,",32,8,XCII,92,11,1377
+"Happy to have thy love, happy to die!",37,8,XCII,92,12,1378
+But what's so blessed-fair that fears no blot?,46,8,XCII,92,13,1379
+"Thou mayst be false, and yet I know it not.",43,10,XCII,92,14,1380
+XCIII,5,1,XCIII,93,0,1381
+"So shall I live, supposing thou art true,",41,8,XCIII,93,1,1382
+Like a deceived husband; so love's face,39,7,XCIII,93,2,1383
+"May still seem love to me, though alter'd new;",46,9,XCIII,93,3,1384
+"Thy looks with me, thy heart in other place:",44,9,XCIII,93,4,1385
+"For there can live no hatred in thine eye,",42,9,XCIII,93,5,1386
+Therefore in that I cannot know thy change.,43,8,XCIII,93,6,1387
+"In many's looks, the false heart's history",42,7,XCIII,93,7,1388
+"Is writ in moods, and frowns, and wrinkles strange.",51,9,XCIII,93,8,1389
+But heaven in thy creation did decree,37,7,XCIII,93,9,1390
+That in thy face sweet love should ever dwell;,46,9,XCIII,93,10,1391
+"Whate'er thy thoughts, or thy heart's workings be,",50,8,XCIII,93,11,1392
+"Thy looks should nothing thence, but sweetness tell.",52,8,XCIII,93,12,1393
+"How like Eve's apple doth thy beauty grow,",42,8,XCIII,93,13,1394
+If thy sweet virtue answer not thy show!,40,8,XCIII,93,14,1395
+XCIV,4,1,XCIV,94,0,1396
+"They that have power to hurt, and will do none,",47,10,XCIV,94,1,1397
+"That do not do the thing they most do show,",43,10,XCIV,94,2,1398
+"Who, moving others, are themselves as stone,",44,7,XCIV,94,3,1399
+"Unmoved, cold, and to temptation slow;",38,6,XCIV,94,4,1400
+"They rightly do inherit heaven's graces,",40,6,XCIV,94,5,1401
+And husband nature's riches from expense;,41,6,XCIV,94,6,1402
+"They are the lords and owners of their faces,",45,9,XCIV,94,7,1403
+"Others, but stewards of their excellence.",41,6,XCIV,94,8,1404
+"The summer's flower is to the summer sweet,",43,8,XCIV,94,9,1405
+"Though to itself, it only live and die,",39,8,XCIV,94,10,1406
+"But if that flower with base infection meet,",44,8,XCIV,94,11,1407
+The basest weed outbraves his dignity:,38,6,XCIV,94,12,1408
+For sweetest things turn sourest by their deeds;,48,8,XCIV,94,13,1409
+"Lilies that fester, smell far worse than weeds.",47,8,XCIV,94,14,1410
+XCV,3,1,XCV,95,0,1411
+How sweet and lovely dost thou make the shame,45,9,XCV,95,1,1412
+"Which, like a canker in the fragrant rose,",42,8,XCV,95,2,1413
+Doth spot the beauty of thy budding name!,41,8,XCV,95,3,1414
+O! in what sweets dost thou thy sins enclose.,45,9,XCV,95,4,1415
+"That tongue that tells the story of thy days,",45,9,XCV,95,5,1416
+"Making lascivious comments on thy sport,",40,6,XCV,95,6,1417
+"Cannot dispraise, but in a kind of praise;",42,8,XCV,95,7,1418
+"Naming thy name, blesses an ill report.",39,7,XCV,95,8,1419
+O! what a mansion have those vices got,38,8,XCV,95,9,1420
+"Which for their habitation chose out thee,",42,7,XCV,95,10,1421
+Where beauty's veil doth cover every blot,41,7,XCV,95,11,1422
+And all things turns to fair that eyes can see!,47,10,XCV,95,12,1423
+"Take heed, dear heart, of this large privilege;",47,8,XCV,95,13,1424
+The hardest knife ill-us'd doth lose his edge.,46,8,XCV,95,14,1425
+XCVI,4,1,XCVI,96,0,1426
+"Some say thy fault is youth, some wantonness;",45,8,XCVI,96,1,1427
+Some say thy grace is youth and gentle sport;,45,9,XCVI,96,2,1428
+Both grace and faults are lov'd of more and less:,49,10,XCVI,96,3,1429
+Thou mak'st faults graces that to thee resort.,46,8,XCVI,96,4,1430
+As on the finger of a throned queen,35,8,XCVI,96,5,1431
+"The basest jewel will be well esteem'd,",39,7,XCVI,96,6,1432
+So are those errors that in thee are seen,41,9,XCVI,96,7,1433
+"To truths translated, and for true things deem'd.",49,8,XCVI,96,8,1434
+"How many lambs might the stern wolf betray,",43,8,XCVI,96,9,1435
+If like a lamb he could his looks translate!,44,9,XCVI,96,10,1436
+"How many gazers mightst thou lead away,",39,7,XCVI,96,11,1437
+if thou wouldst use the strength of all thy state!,50,10,XCVI,96,12,1438
+"But do not so; I love thee in such sort,",40,10,XCVI,96,13,1439
+"As, thou being mine, mine is thy good report.",45,9,XCVI,96,14,1440
+XCVII,5,1,XCVII,97,0,1441
+How like a winter hath my absence been,38,8,XCVII,97,1,1442
+"From thee, the pleasure of the fleeting year!",45,8,XCVII,97,2,1443
+"What freezings have I felt, what dark days seen!",48,9,XCVII,97,3,1444
+What old December's bareness everywhere!,40,5,XCVII,97,4,1445
+And yet this time removed was summer's time;,44,8,XCVII,97,5,1446
+"The teeming autumn, big with rich increase,",43,7,XCVII,97,6,1447
+"Bearing the wanton burden of the prime,",39,7,XCVII,97,7,1448
+Like widow'd wombs after their lords' decease:,46,7,XCVII,97,8,1449
+Yet this abundant issue seem'd to me,36,7,XCVII,97,9,1450
+"But hope of orphans, and unfather'd fruit;",42,7,XCVII,97,10,1451
+"For summer and his pleasures wait on thee,",42,8,XCVII,97,11,1452
+"And, thou away, the very birds are mute:",40,8,XCVII,97,12,1453
+"Or, if they sing, 'tis with so dull a cheer,",44,10,XCVII,97,13,1454
+"That leaves look pale, dreading the winter's near.",50,8,XCVII,97,14,1455
+XCVIII,6,1,XCVIII,98,0,1456
+"From you have I been absent in the spring,",42,9,XCVIII,98,1,1457
+"When proud-pied April, dress'd in all his trim,",47,8,XCVIII,98,2,1458
+"Hath put a spirit of youth in every thing,",42,9,XCVIII,98,3,1459
+That heavy Saturn laugh'd and leap'd with him.,46,8,XCVIII,98,4,1460
+"Yet nor the lays of birds, nor the sweet smell",46,10,XCVIII,98,5,1461
+"Of different flowers in odour and in hue,",41,8,XCVIII,98,6,1462
+"Could make me any summer's story tell,",38,7,XCVIII,98,7,1463
+Or from their proud lap pluck them where they grew:,51,10,XCVIII,98,8,1464
+"Nor did I wonder at the lily's white,",37,8,XCVIII,98,9,1465
+Nor praise the deep vermilion in the rose;,42,8,XCVIII,98,10,1466
+"They were but sweet, but figures of delight,",44,8,XCVIII,98,11,1467
+"Drawn after you, you pattern of all those.",42,8,XCVIII,98,12,1468
+"Yet seem'd it winter still, and you away,",41,8,XCVIII,98,13,1469
+As with your shadow I with these did play.,42,9,XCVIII,98,14,1470
+XCIX,4,1,XCIX,99,0,1471
+The forward violet thus did I chide:,36,7,XCIX,99,1,1472
+"Sweet thief, whence didst thou steal thy sweet that smells,",59,10,XCIX,99,2,1473
+If not from my love's breath? The purple pride,46,9,XCIX,99,3,1474
+Which on thy soft cheek for complexion dwells,45,8,XCIX,99,4,1475
+In my love's veins thou hast too grossly dy'd.,46,9,XCIX,99,5,1476
+"The lily I condemned for thy hand,",34,7,XCIX,99,6,1477
+And buds of marjoram had stol'n thy hair;,41,8,XCIX,99,7,1478
+"The roses fearfully on thorns did stand,",40,7,XCIX,99,8,1479
+"One blushing shame, another white despair;",42,6,XCIX,99,9,1480
+"A third, nor red nor white, had stol'n of both,",47,10,XCIX,99,10,1481
+And to his robbery had annex'd thy breath;,42,8,XCIX,99,11,1482
+"But, for his theft, in pride of all his growth",46,10,XCIX,99,12,1483
+A vengeful canker eat him up to death.,38,8,XCIX,99,13,1484
+"More flowers I noted, yet I none could see,",43,9,XCIX,99,14,1485
+"But sweet, or colour it had stol'n from thee.",45,9,XCIX,99,15,1486
+C,1,1,C,100,0,1487
+"Where art thou Muse that thou forget'st so long,",48,9,C,100,1,1488
+To speak of that which gives thee all thy might?,48,10,C,100,2,1489
+"Spend'st thou thy fury on some worthless song,",46,8,C,100,3,1490
+Darkening thy power to lend base subjects light?,48,8,C,100,4,1491
+"Return forgetful Muse, and straight redeem,",43,6,C,100,5,1492
+In gentle numbers time so idly spent;,37,7,C,100,6,1493
+Sing to the ear that doth thy lays esteem,41,9,C,100,7,1494
+And gives thy pen both skill and argument.,42,8,C,100,8,1495
+"Rise, resty Muse, my love's sweet face survey,",46,8,C,100,9,1496
+If Time have any wrinkle graven there;,38,7,C,100,10,1497
+"If any, be a satire to decay,",29,7,C,100,11,1498
+And make time's spoils despised every where.,44,7,C,100,12,1499
+"Give my love fame faster than Time wastes life,",47,9,C,100,13,1500
+So thou prevent'st his scythe and crooked knife.,48,8,C,100,14,1501
+CI,2,1,CI,101,0,1502
+O truant Muse what shall be thy amends,38,8,CI,101,1,1503
+For thy neglect of truth in beauty dy'd?,40,8,CI,101,2,1504
+Both truth and beauty on my love depends;,41,8,CI,101,3,1505
+"So dost thou too, and therein dignified.",40,7,CI,101,4,1506
+"Make answer Muse: wilt thou not haply say,",42,8,CI,101,5,1507
+"'Truth needs no colour, with his colour fix'd;",46,8,CI,101,6,1508
+"Beauty no pencil, beauty's truth to lay;",40,7,CI,101,7,1509
+"But best is best, if never intermix'd'?",39,7,CI,101,8,1510
+"Because he needs no praise, wilt thou be dumb?",46,9,CI,101,9,1511
+"Excuse not silence so, for't lies in thee",41,8,CI,101,10,1512
+To make him much outlive a gilded tomb,38,8,CI,101,11,1513
+And to be prais'd of ages yet to be.,36,9,CI,101,12,1514
+"Then do thy office, Muse; I teach thee how",42,9,CI,101,13,1515
+To make him seem long hence as he shows now.,44,10,CI,101,14,1516
+CII,3,1,CII,102,0,1517
+"My love is strengthen'd, though more weak in seeming;",53,9,CII,102,1,1518
+"I love not less, though less the show appear;",45,9,CII,102,2,1519
+"That love is merchandiz'd, whose rich esteeming,",48,7,CII,102,3,1520
+The owner's tongue doth publish every where.,44,7,CII,102,4,1521
+"Our love was new, and then but in the spring,",45,10,CII,102,5,1522
+When I was wont to greet it with my lays;,41,10,CII,102,6,1523
+"As Philomel in summer's front doth sing,",40,7,CII,102,7,1524
+And stops her pipe in growth of riper days:,43,9,CII,102,8,1525
+Not that the summer is less pleasant now,40,8,CII,102,9,1526
+"Than when her mournful hymns did hush the night,",48,9,CII,102,10,1527
+"But that wild music burthens every bough,",41,7,CII,102,11,1528
+And sweets grown common lose their dear delight.,48,8,CII,102,12,1529
+"Therefore like her, I sometime hold my tongue:",46,8,CII,102,13,1530
+Because I would not dull you with my song.,42,9,CII,102,14,1531
+CIII,4,1,CIII,103,0,1532
+"Alack! what poverty my Muse brings forth,",41,7,CIII,103,1,1533
+"That having such a scope to show her pride,",43,9,CIII,103,2,1534
+"The argument, all bare, is of more worth",40,8,CIII,103,3,1535
+Than when it hath my added praise beside!,41,8,CIII,103,4,1536
+"O! blame me not, if I no more can write!",40,10,CIII,103,5,1537
+"Look in your glass, and there appears a face",44,9,CIII,103,6,1538
+"That over-goes my blunt invention quite,",40,6,CIII,103,7,1539
+"Dulling my lines, and doing me disgrace.",40,7,CIII,103,8,1540
+"Were it not sinful then, striving to mend,",42,8,CIII,103,9,1541
+To mar the subject that before was well?,40,8,CIII,103,10,1542
+For to no other pass my verses tend,35,8,CIII,103,11,1543
+Than of your graces and your gifts to tell;,43,9,CIII,103,12,1544
+"And more, much more, than in my verse can sit,",46,10,CIII,103,13,1545
+Your own glass shows you when you look in it.,45,10,CIII,103,14,1546
+CIV,3,1,CIV,104,0,1547
+"To me, fair friend, you never can be old,",41,9,CIV,104,1,1548
+"For as you were when first your eye I ey'd,",43,10,CIV,104,2,1549
+"Such seems your beauty still. Three winters cold,",49,8,CIV,104,3,1550
+"Have from the forests shook three summers' pride,",49,8,CIV,104,4,1551
+"Three beauteous springs to yellow autumn turn'd,",48,7,CIV,104,5,1552
+"In process of the seasons have I seen,",38,8,CIV,104,6,1553
+"Three April perfumes in three hot Junes burn'd,",47,8,CIV,104,7,1554
+"Since first I saw you fresh, which yet are green.",49,10,CIV,104,8,1555
+"Ah! yet doth beauty like a dial-hand,",37,7,CIV,104,9,1556
+"Steal from his figure, and no pace perceiv'd;",45,8,CIV,104,10,1557
+"So your sweet hue, which methinks still doth stand,",51,9,CIV,104,11,1558
+"Hath motion, and mine eye may be deceiv'd:",42,8,CIV,104,12,1559
+"For fear of which, hear this thou age unbred:",45,9,CIV,104,13,1560
+Ere you were born was beauty's summer dead.,43,8,CIV,104,14,1561
+CV,2,1,CV,105,0,1562
+"Let not my love be call'd idolatry,",35,7,CV,105,1,1563
+"Nor my beloved as an idol show,",31,7,CV,105,2,1564
+Since all alike my songs and praises be,39,8,CV,105,3,1565
+"To one, of one, still such, and ever so.",40,9,CV,105,4,1566
+"Kind is my love to-day, to-morrow kind,",39,7,CV,105,5,1567
+Still constant in a wondrous excellence;,40,6,CV,105,6,1568
+"Therefore my verse to constancy confin'd,",41,6,CV,105,7,1569
+"One thing expressing, leaves out difference.",44,6,CV,105,8,1570
+"'Fair, kind, and true,' is all my argument,",43,8,CV,105,9,1571
+"'Fair, kind, and true,' varying to other words;",47,8,CV,105,10,1572
+"And in this change is my invention spent,",41,8,CV,105,11,1573
+"Three themes in one, which wondrous scope affords.",50,8,CV,105,12,1574
+"Fair, kind, and true, have often liv'd alone,",45,8,CV,105,13,1575
+"Which three till now, never kept seat in one.",45,9,CV,105,14,1576
+CVI,3,1,CVI,106,0,1577
+When in the chronicle of wasted time,36,7,CVI,106,1,1578
+"I see descriptions of the fairest wights,",41,7,CVI,106,2,1579
+"And beauty making beautiful old rime,",37,6,CVI,106,3,1580
+"In praise of ladies dead and lovely knights,",44,8,CVI,106,4,1581
+"Then, in the blazon of sweet beauty's best,",43,8,CVI,106,5,1582
+"Of hand, of foot, of lip, of eye, of brow,",42,10,CVI,106,6,1583
+I see their antique pen would have express'd,44,8,CVI,106,7,1584
+Even such a beauty as you master now.,37,8,CVI,106,8,1585
+So all their praises are but prophecies,39,7,CVI,106,9,1586
+"Of this our time, all you prefiguring;",38,7,CVI,106,10,1587
+"And for they looked but with divining eyes,",43,8,CVI,106,11,1588
+They had not skill enough your worth to sing:,45,9,CVI,106,12,1589
+"For we, which now behold these present days,",44,8,CVI,106,13,1590
+"Have eyes to wonder, but lack tongues to praise.",48,9,CVI,106,14,1591
+CVII,4,1,CVII,107,0,1592
+"Not mine own fears, nor the prophetic soul",42,8,CVII,107,1,1593
+"Of the wide world dreaming on things to come,",45,9,CVII,107,2,1594
+"Can yet the lease of my true love control,",42,9,CVII,107,3,1595
+Supposed as forfeit to a confin'd doom.,39,7,CVII,107,4,1596
+"The mortal moon hath her eclipse endur'd,",41,7,CVII,107,5,1597
+And the sad augurs mock their own presage;,42,8,CVII,107,6,1598
+"Incertainties now crown themselves assur'd,",43,5,CVII,107,7,1599
+And peace proclaims olives of endless age.,42,7,CVII,107,8,1600
+"Now with the drops of this most balmy time,",43,9,CVII,107,9,1601
+"My love looks fresh, and Death to me subscribes,",48,9,CVII,107,10,1602
+"Since, spite of him, I'll live in this poor rime,",49,10,CVII,107,11,1603
+While he insults o'er dull and speechless tribes:,49,8,CVII,107,12,1604
+"And thou in this shalt find thy monument,",41,8,CVII,107,13,1605
+When tyrants' crests and tombs of brass are spent.,50,9,CVII,107,14,1606
+CVIII,5,1,CVIII,108,0,1607
+"What's in the brain, that ink may character,",44,8,CVIII,108,1,1608
+Which hath not figur'd to thee my true spirit?,46,9,CVIII,108,2,1609
+"What's new to speak, what now to register,",42,8,CVIII,108,3,1610
+"That may express my love, or thy dear merit?",44,9,CVIII,108,4,1611
+"Nothing, sweet boy; but yet, like prayers divine,",49,8,CVIII,108,5,1612
+I must each day say o'er the very same;,39,9,CVIII,108,6,1613
+"Counting no old thing old, thou mine, I thine,",46,9,CVIII,108,7,1614
+Even as when first I hallow'd thy fair name.,44,9,CVIII,108,8,1615
+"So that eternal love in love's fresh case,",42,8,CVIII,108,9,1616
+"Weighs not the dust and injury of age,",38,8,CVIII,108,10,1617
+"Nor gives to necessary wrinkles place,",38,6,CVIII,108,11,1618
+But makes antiquity for aye his page;,37,7,CVIII,108,12,1619
+"Finding the first conceit of love there bred,",45,8,CVIII,108,13,1620
+Where time and outward form would show it dead.,47,9,CVIII,108,14,1621
+CIX,3,1,CIX,109,0,1622
+"O! never say that I was false of heart,",39,9,CIX,109,1,1623
+"Though absence seem'd my flame to qualify,",42,7,CIX,109,2,1624
+As easy might I from my self depart,35,8,CIX,109,3,1625
+As from my soul which in thy breast doth lie:,45,10,CIX,109,4,1626
+"That is my home of love: if I have rang'd,",42,10,CIX,109,5,1627
+"Like him that travels, I return again;",38,7,CIX,109,6,1628
+"Just to the time, not with the time exchang'd,",46,9,CIX,109,7,1629
+So that myself bring water for my stain.,40,8,CIX,109,8,1630
+"Never believe though in my nature reign'd,",42,7,CIX,109,9,1631
+"All frailties that besiege all kinds of blood,",46,8,CIX,109,10,1632
+"That it could so preposterously be stain'd,",43,7,CIX,109,11,1633
+To leave for nothing all thy sum of good;,41,9,CIX,109,12,1634
+"For nothing this wide universe I call,",38,7,CIX,109,13,1635
+"Save thou, my rose, in it thou art my all.",42,10,CIX,109,14,1636
+CX,2,1,CX,110,0,1637
+"Alas! 'tis true, I have gone here and there,",44,9,CX,110,1,1638
+"And made my self a motley to the view,",38,9,CX,110,2,1639
+"Gor'd mine own thoughts, sold cheap what is most dear,",54,10,CX,110,3,1640
+Made old offences of affections new;,36,6,CX,110,4,1641
+"Most true it is, that I have look'd on truth",44,10,CX,110,5,1642
+"Askance and strangely; but, by all above,",41,7,CX,110,6,1643
+"These blenches gave my heart another youth,",43,7,CX,110,7,1644
+And worse essays prov'd thee my best of love.,45,9,CX,110,8,1645
+"Now all is done, save what shall have no end:",45,10,CX,110,9,1646
+Mine appetite I never more will grind,37,7,CX,110,10,1647
+"On newer proof, to try an older friend,",39,8,CX,110,11,1648
+"A god in love, to whom I am confin'd.",37,9,CX,110,12,1649
+"Then give me welcome, next my heaven the best,",46,9,CX,110,13,1650
+Even to thy pure and most most loving breast.,45,9,CX,110,14,1651
+CXI,3,1,CXI,111,0,1652
+"O! for my sake do you with Fortune chide,",41,9,CXI,111,1,1653
+"The guilty goddess of my harmful deeds,",39,7,CXI,111,2,1654
+That did not better for my life provide,39,8,CXI,111,3,1655
+Than public means which public manners breeds.,46,7,CXI,111,4,1656
+"Thence comes it that my name receives a brand,",46,9,CXI,111,5,1657
+And almost thence my nature is subdu'd,38,7,CXI,111,6,1658
+"To what it works in, like the dyer's hand:",42,9,CXI,111,7,1659
+"Pity me, then, and wish I were renew'd;",39,8,CXI,111,8,1660
+"Whilst, like a willing patient, I will drink,",45,8,CXI,111,9,1661
+Potions of eisel 'gainst my strong infection;,45,7,CXI,111,10,1662
+"No bitterness that I will bitter think,",39,7,CXI,111,11,1663
+"Nor double penance, to correct correction.",42,6,CXI,111,12,1664
+"Pity me then, dear friend, and I assure ye,",43,9,CXI,111,13,1665
+Even that your pity is enough to cure me.,41,9,CXI,111,14,1666
+CXII,4,1,CXII,112,0,1667
+"Your love and pity doth the impression fill,",44,8,CXII,112,1,1668
+Which vulgar scandal stamp'd upon my brow;,42,7,CXII,112,2,1669
+"For what care I who calls me well or ill,",41,10,CXII,112,3,1670
+"So you o'er-green my bad, my good allow?",40,8,CXII,112,4,1671
+"You are my all-the-world, and I must strive",43,8,CXII,112,5,1672
+To know my shames and praises from your tongue;,47,9,CXII,112,6,1673
+"None else to me, nor I to none alive,",37,9,CXII,112,7,1674
+That my steel'd sense or changes right or wrong.,48,9,CXII,112,8,1675
+In so profound abysm I throw all care,37,8,CXII,112,9,1676
+"Of others' voices, that my adder's sense",40,7,CXII,112,10,1677
+To critic and to flatterer stopped are.,39,7,CXII,112,11,1678
+Mark how with my neglect I do dispense:,39,8,CXII,112,12,1679
+"You are so strongly in my purpose bred,",39,8,CXII,112,13,1680
+That all the world besides methinks are dead.,45,8,CXII,112,14,1681
+CXIII,5,1,CXIII,113,0,1682
+"Since I left you, mine eye is in my mind;",41,10,CXIII,113,1,1683
+And that which governs me to go about,37,8,CXIII,113,2,1684
+"Doth part his function and is partly blind,",43,8,CXIII,113,3,1685
+"Seems seeing, but effectually is out;",37,6,CXIII,113,4,1686
+For it no form delivers to the heart,36,8,CXIII,113,5,1687
+"Of bird, of flower, or shape which it doth latch:",49,10,CXIII,113,6,1688
+"Of his quick objects hath the mind no part,",43,9,CXIII,113,7,1689
+Nor his own vision holds what it doth catch;,44,9,CXIII,113,8,1690
+"For if it see the rud'st or gentlest sight,",43,9,CXIII,113,9,1691
+"The most sweet favour or deformed'st creature,",46,7,CXIII,113,10,1692
+"The mountain or the sea, the day or night:",42,9,CXIII,113,11,1693
+"The crow, or dove, it shapes them to your feature.",50,10,CXIII,113,12,1694
+"Incapable of more, replete with you,",36,6,CXIII,113,13,1695
+My most true mind thus maketh mine untrue.,42,8,CXIII,113,14,1696
+CXIV,4,1,CXIV,114,0,1697
+"Or whether doth my mind, being crown'd with you,",48,9,CXIV,114,1,1698
+"Drink up the monarch's plague, this flattery?",45,7,CXIV,114,2,1699
+"Or whether shall I say, mine eye saith true,",44,9,CXIV,114,3,1700
+"And that your love taught it this alchemy,",42,8,CXIV,114,4,1701
+To make of monsters and things indigest,39,7,CXIV,114,5,1702
+"Such cherubins as your sweet self resemble,",43,7,CXIV,114,6,1703
+"Creating every bad a perfect best,",34,6,CXIV,114,7,1704
+As fast as objects to his beams assemble?,41,8,CXIV,114,8,1705
+"O! 'tis the first, 'tis flattery in my seeing,",46,9,CXIV,114,9,1706
+And my great mind most kingly drinks it up:,43,9,CXIV,114,10,1707
+"Mine eye well knows what with his gust is 'greeing,",51,10,CXIV,114,11,1708
+And to his palate doth prepare the cup:,39,8,CXIV,114,12,1709
+"If it be poison'd, 'tis the lesser sin",38,8,CXIV,114,13,1710
+That mine eye loves it and doth first begin.,44,9,CXIV,114,14,1711
+CXV,3,1,CXV,115,0,1712
+"Those lines that I before have writ do lie,",43,9,CXV,115,1,1713
+Even those that said I could not love you dearer:,49,10,CXV,115,2,1714
+Yet then my judgment knew no reason why,39,8,CXV,115,3,1715
+My most full flame should afterwards burn clearer.,50,8,CXV,115,4,1716
+"But reckoning Time, whose million'd accidents",45,6,CXV,115,5,1717
+"Creep in 'twixt vows, and change decrees of kings,",50,9,CXV,115,6,1718
+"Tan sacred beauty, blunt the sharp'st intents,",46,7,CXV,115,7,1719
+Divert strong minds to the course of altering things;,53,9,CXV,115,8,1720
+"Alas! why fearing of Time's tyranny,",36,6,CXV,115,9,1721
+"Might I not then say, 'Now I love you best,'",44,10,CXV,115,10,1722
+"When I was certain o'er incertainty,",36,6,CXV,115,11,1723
+"Crowning the present, doubting of the rest?",43,7,CXV,115,12,1724
+"Love is a babe, then might I not say so,",40,10,CXV,115,13,1725
+To give full growth to that which still doth grow?,50,10,CXV,115,14,1726
+CXVI,4,1,CXVI,116,0,1727
+Let me not to the marriage of true minds,40,9,CXVI,116,1,1728
+Admit impediments. Love is not love,35,6,CXVI,116,2,1729
+"Which alters when it alteration finds,",38,6,CXVI,116,3,1730
+Or bends with the remover to remove:,36,7,CXVI,116,4,1731
+"O, no! it is an ever-fixed mark,",32,7,CXVI,116,5,1732
+That looks on tempests and is never shaken;,43,8,CXVI,116,6,1733
+"It is the star to every wandering bark,",39,8,CXVI,116,7,1734
+"Whose worth's unknown, although his height be taken.",52,8,CXVI,116,8,1735
+"Love's not Time's fool, though rosy lips and cheeks",51,9,CXVI,116,9,1736
+Within his bending sickle's compass come;,41,6,CXVI,116,10,1737
+"Love alters not with his brief hours and weeks,",47,9,CXVI,116,11,1738
+But bears it out even to the edge of doom.,42,10,CXVI,116,12,1739
+"If this be error and upon me prov'd,",36,8,CXVI,116,13,1740
+"I never writ, nor no man ever lov'd.",36,8,CXVI,116,14,1741
+CXVII,5,1,CXVII,117,0,1742
+"Accuse me thus: that I have scanted all,",40,8,CXVII,117,1,1743
+"Wherein I should your great deserts repay,",42,7,CXVII,117,2,1744
+"Forgot upon your dearest love to call,",38,7,CXVII,117,3,1745
+Whereto all bonds do tie me day by day;,39,9,CXVII,117,4,1746
+"That I have frequent been with unknown minds,",45,8,CXVII,117,5,1747
+And given to time your own dear-purchas'd right;,48,8,CXVII,117,6,1748
+That I have hoisted sail to all the winds,41,9,CXVII,117,7,1749
+Which should transport me farthest from your sight.,51,8,CXVII,117,8,1750
+"Book both my wilfulness and errors down,",40,7,CXVII,117,9,1751
+"And on just proof surmise, accumulate;",38,6,CXVII,117,10,1752
+"Bring me within the level of your frown,",40,8,CXVII,117,11,1753
+But shoot not at me in your waken'd hate;,41,9,CXVII,117,12,1754
+Since my appeal says I did strive to prove,42,9,CXVII,117,13,1755
+The constancy and virtue of your love.,38,7,CXVII,117,14,1756
+CXVIII,6,1,CXVIII,118,0,1757
+"Like as, to make our appetite more keen,",40,8,CXVIII,118,1,1758
+With eager compounds we our palate urge;,40,7,CXVIII,118,2,1759
+"As, to prevent our maladies unseen,",35,6,CXVIII,118,3,1760
+We sicken to shun sickness when we purge;,41,8,CXVIII,118,4,1761
+"Even so, being full of your ne'er-cloying sweetness,",52,8,CXVIII,118,5,1762
+To bitter sauces did I frame my feeding;,40,8,CXVIII,118,6,1763
+"And, sick of welfare, found a kind of meetness",46,9,CXVIII,118,7,1764
+"To be diseas'd, ere that there was true needing.",48,9,CXVIII,118,8,1765
+"Thus policy in love, to anticipate",34,6,CXVIII,118,9,1766
+"The ills that were not, grew to faults assur'd,",47,9,CXVIII,118,10,1767
+And brought to medicine a healthful state,41,7,CXVIII,118,11,1768
+"Which, rank of goodness, would by ill be cur'd;",47,9,CXVIII,118,12,1769
+"But thence I learn and find the lesson true,",44,9,CXVIII,118,13,1770
+Drugs poison him that so fell sick of you.,42,9,CXVIII,118,14,1771
+CXIX,4,1,CXIX,119,0,1772
+"What potions have I drunk of Siren tears,",41,8,CXIX,119,1,1773
+"Distill'd from limbecks foul as hell within,",44,7,CXIX,119,2,1774
+"Applying fears to hopes, and hopes to fears,",44,8,CXIX,119,3,1775
+Still losing when I saw myself to win!,38,8,CXIX,119,4,1776
+"What wretched errors hath my heart committed,",45,7,CXIX,119,5,1777
+Whilst it hath thought itself so blessed never!,47,8,CXIX,119,6,1778
+"How have mine eyes out of their spheres been fitted,",52,10,CXIX,119,7,1779
+In the distraction of this madding fever!,41,7,CXIX,119,8,1780
+O benefit of ill! now I find true,33,8,CXIX,119,9,1781
+"That better is, by evil still made better;",42,8,CXIX,119,10,1782
+"And ruin'd love, when it is built anew,",39,8,CXIX,119,11,1783
+"Grows fairer than at first, more strong, far greater.",53,9,CXIX,119,12,1784
+"So I return rebuk'd to my content,",34,7,CXIX,119,13,1785
+And gain by ill thrice more than I have spent.,46,10,CXIX,119,14,1786
+CXX,3,1,CXX,120,0,1787
+"That you were once unkind befriends me now,",43,8,CXX,120,1,1788
+"And for that sorrow, which I then did feel,",43,9,CXX,120,2,1789
+"Needs must I under my transgression bow,",40,7,CXX,120,3,1790
+Unless my nerves were brass or hammer'd steel.,46,8,CXX,120,4,1791
+"For if you were by my unkindness shaken,",40,8,CXX,120,5,1792
+"As I by yours, you've pass'd a hell of time;",44,10,CXX,120,6,1793
+"And I, a tyrant, have no leisure taken",38,8,CXX,120,7,1794
+To weigh how once I suffer'd in your crime.,43,9,CXX,120,8,1795
+O! that our night of woe might have remember'd,46,9,CXX,120,9,1796
+"My deepest sense, how hard true sorrow hits,",44,8,CXX,120,10,1797
+"And soon to you, as you to me, then tender'd",44,10,CXX,120,11,1798
+"The humble salve, which wounded bosoms fits!",44,7,CXX,120,12,1799
+But that your trespass now becomes a fee;,41,8,CXX,120,13,1800
+"Mine ransoms yours, and yours must ransom me.",45,8,CXX,120,14,1801
+CXXI,4,1,CXXI,121,0,1802
+"'Tis better to be vile than vile esteem'd,",42,8,CXXI,121,1,1803
+When not to be receives reproach of being;,42,8,CXXI,121,2,1804
+"And the just pleasure lost, which is so deem'd",46,9,CXXI,121,3,1805
+"Not by our feeling, but by others' seeing:",42,8,CXXI,121,4,1806
+For why should others' false adulterate eyes,44,7,CXXI,121,5,1807
+Give salutation to my sportive blood?,37,6,CXXI,121,6,1808
+"Or on my frailties why are frailer spies,",41,8,CXXI,121,7,1809
+Which in their wills count bad what I think good?,49,10,CXXI,121,8,1810
+"No, I am that I am, and they that level",39,10,CXXI,121,9,1811
+At my abuses reckon up their own:,33,7,CXXI,121,10,1812
+I may be straight though they themselves be bevel;,50,9,CXXI,121,11,1813
+"By their rank thoughts, my deeds must not be shown;",51,10,CXXI,121,12,1814
+"Unless this general evil they maintain,",39,6,CXXI,121,13,1815
+All men are bad and in their badness reign.,43,9,CXXI,121,14,1816
+CXXII,5,1,CXXII,122,0,1817
+"Thy gift, thy tables, are within my brain",41,8,CXXII,122,1,1818
+"Full character'd with lasting memory,",37,5,CXXII,122,2,1819
+"Which shall above that idle rank remain,",40,7,CXXII,122,3,1820
+Beyond all date; even to eternity:,34,6,CXXII,122,4,1821
+"Or, at the least, so long as brain and heart",44,10,CXXII,122,5,1822
+Have faculty by nature to subsist;,34,6,CXXII,122,6,1823
+Till each to raz'd oblivion yield his part,42,8,CXXII,122,7,1824
+"Of thee, thy record never can be miss'd.",40,8,CXXII,122,8,1825
+"That poor retention could not so much hold,",43,8,CXXII,122,9,1826
+Nor need I tallies thy dear love to score;,42,9,CXXII,122,10,1827
+"Therefore to give them from me was I bold,",42,9,CXXII,122,11,1828
+To trust those tables that receive thee more:,45,8,CXXII,122,12,1829
+To keep an adjunct to remember thee,35,7,CXXII,122,13,1830
+Were to import forgetfulness in me.,35,6,CXXII,122,14,1831
+CXXIII,6,1,CXXIII,123,0,1832
+"No, Time, thou shalt not boast that I do change:",48,10,CXXIII,123,1,1833
+Thy pyramids built up with newer might,38,7,CXXIII,123,2,1834
+"To me are nothing novel, nothing strange;",41,7,CXXIII,123,3,1835
+They are but dressings of a former sight.,41,8,CXXIII,123,4,1836
+"Our dates are brief, and therefore we admire",44,8,CXXIII,123,5,1837
+What thou dost foist upon us that is old;,41,9,CXXIII,123,6,1838
+And rather make them born to our desire,39,8,CXXIII,123,7,1839
+Than think that we before have heard them told.,47,9,CXXIII,123,8,1840
+"Thy registers and thee I both defy,",35,7,CXXIII,123,9,1841
+"Not wondering at the present nor the past,",42,8,CXXIII,123,10,1842
+"For thy records and what we see doth lie,",41,9,CXXIII,123,11,1843
+Made more or less by thy continual haste.,41,8,CXXIII,123,12,1844
+This I do vow and this shall ever be;,37,9,CXXIII,123,13,1845
+I will be true despite thy scythe and thee.,43,9,CXXIII,123,14,1846
+CXXIV,5,1,CXXIV,124,0,1847
+"If my dear love were but the child of state,",44,10,CXXIV,124,1,1848
+"It might for Fortune's bastard be unfather'd,",45,7,CXXIV,124,2,1849
+"As subject to Time's love or to Time's hate,",44,9,CXXIV,124,3,1850
+"Weeds among weeds, or flowers with flowers gather'd.",52,8,CXXIV,124,4,1851
+"No, it was builded far from accident;",37,7,CXXIV,124,5,1852
+"It suffers not in smiling pomp, nor falls",41,8,CXXIV,124,6,1853
+"Under the blow of thralled discontent,",38,6,CXXIV,124,7,1854
+Whereto th' inviting time our fashion calls:,44,7,CXXIV,124,8,1855
+"It fears not policy, that heretic,",34,6,CXXIV,124,9,1856
+"Which works on leases of short-number'd hours,",46,7,CXXIV,124,10,1857
+"But all alone stands hugely politic,",36,6,CXXIV,124,11,1858
+"That it nor grows with heat, nor drowns with showers.",53,10,CXXIV,124,12,1859
+"To this I witness call the fools of time,",41,9,CXXIV,124,13,1860
+"Which die for goodness, who have lived for crime.",49,9,CXXIV,124,14,1861
+CXXV,4,1,CXXV,125,0,1862
+"Were't aught to me I bore the canopy,",37,8,CXXV,125,1,1863
+"With my extern the outward honouring,",37,6,CXXV,125,2,1864
+"Or laid great bases for eternity,",33,6,CXXV,125,3,1865
+Which proves more short than waste or ruining?,46,8,CXXV,125,4,1866
+Have I not seen dwellers on form and favour,43,9,CXXV,125,5,1867
+Lose all and more by paying too much rent,41,9,CXXV,125,6,1868
+"For compound sweet; forgoing simple savour,",43,6,CXXV,125,7,1869
+"Pitiful thrivers, in their gazing spent?",40,6,CXXV,125,8,1870
+"No; let me be obsequious in thy heart,",38,8,CXXV,125,9,1871
+"And take thou my oblation, poor but free,",41,8,CXXV,125,10,1872
+"Which is not mix'd with seconds, knows no art,",46,9,CXXV,125,11,1873
+"But mutual render, only me for thee.",36,7,CXXV,125,12,1874
+"Hence, thou suborned informer! a true soul",42,7,CXXV,125,13,1875
+"When most impeach'd, stands least in thy control.",49,8,CXXV,125,14,1876
+CXXVI,5,1,CXXVI,126,0,1877
+"O thou, my lovely boy, who in thy power",39,9,CXXVI,126,1,1878
+"Dost hold Time's fickle glass, his fickle hour;",47,8,CXXVI,126,2,1879
+"Who hast by waning grown, and therein show'st",45,8,CXXVI,126,3,1880
+"Thy lovers withering, as thy sweet self grow'st.",48,8,CXXVI,126,4,1881
+"If Nature, sovereign mistress over wrack,",41,6,CXXVI,126,5,1882
+"As thou goest onwards, still will pluck thee back,",50,9,CXXVI,126,6,1883
+"She keeps thee to this purpose, that her skill",46,9,CXXVI,126,7,1884
+May time disgrace and wretched minutes kill.,44,7,CXXVI,126,8,1885
+"Yet fear her, O thou minion of her pleasure!",44,9,CXXVI,126,9,1886
+"She may detain, but not still keep, her treasure:",49,9,CXXVI,126,10,1887
+"Her audit (though delayed) answered must be,",44,7,CXXVI,126,11,1888
+And her quietus is to render thee.,34,7,CXXVI,126,12,1889
+CXXVII,6,1,CXXVII,127,0,1890
+"In the old age black was not counted fair,",42,9,CXXVII,127,1,1891
+"Or if it were, it bore not beauty's name;",41,9,CXXVII,127,2,1892
+"But now is black beauty's successive heir,",42,7,CXXVII,127,3,1893
+And beauty slander'd with a bastard shame:,42,7,CXXVII,127,4,1894
+"For since each hand hath put on Nature's power,",47,9,CXXVII,127,5,1895
+"Fairing the foul with Art's false borrowed face,",48,8,CXXVII,127,6,1896
+"Sweet beauty hath no name, no holy bower,",41,8,CXXVII,127,7,1897
+"But is profan'd, if not lives in disgrace.",42,8,CXXVII,127,8,1898
+"Therefore my mistress' eyes are raven black,",44,7,CXXVII,127,9,1899
+"Her eyes so suited, and they mourners seem",42,8,CXXVII,127,10,1900
+"At such who, not born fair, no beauty lack,",43,9,CXXVII,127,11,1901
+Sland'ring creation with a false esteem:,40,6,CXXVII,127,12,1902
+"Yet so they mourn becoming of their woe,",40,8,CXXVII,127,13,1903
+That every tongue says beauty should look so.,45,8,CXXVII,127,14,1904
+CXXVIII,7,1,CXXVIII,128,0,1905
+"How oft when thou, my music, music play'st,",43,8,CXXVIII,128,1,1906
+Upon that blessed wood whose motion sounds,42,7,CXXVIII,128,2,1907
+With thy sweet fingers when thou gently sway'st,47,8,CXXVIII,128,3,1908
+"The wiry concord that mine ear confounds,",41,7,CXXVIII,128,4,1909
+"Do I envy those jacks that nimble leap,",39,8,CXXVIII,128,5,1910
+"To kiss the tender inward of thy hand,",38,8,CXXVIII,128,6,1911
+"Whilst my poor lips which should that harvest reap,",51,9,CXXVIII,128,7,1912
+At the wood's boldness by thee blushing stand!,46,8,CXXVIII,128,8,1913
+"To be so tickled, they would change their state",47,9,CXXVIII,128,9,1914
+"And situation with those dancing chips,",39,6,CXXVIII,128,10,1915
+"O'er whom thy fingers walk with gentle gait,",44,8,CXXVIII,128,11,1916
+Making dead wood more bless'd than living lips.,47,8,CXXVIII,128,12,1917
+"Since saucy jacks so happy are in this,",39,8,CXXVIII,128,13,1918
+"Give them thy fingers, me thy lips to kiss.",43,9,CXXVIII,128,14,1919
+CXXIX,5,1,CXXIX,129,0,1920
+The expense of spirit in a waste of shame,41,9,CXXIX,129,1,1921
+"Is lust in action: and till action, lust",40,8,CXXIX,129,2,1922
+"Is perjur'd, murderous, bloody, full of blame,",46,7,CXXIX,129,3,1923
+"Savage, extreme, rude, cruel, not to trust;",43,7,CXXIX,129,4,1924
+Enjoy'd no sooner but despised straight;,40,6,CXXIX,129,5,1925
+"Past reason hunted; and no sooner had,",38,7,CXXIX,129,6,1926
+"Past reason hated, as a swallow'd bait,",39,7,CXXIX,129,7,1927
+On purpose laid to make the taker mad:,38,8,CXXIX,129,8,1928
+Mad in pursuit and in possession so;,36,7,CXXIX,129,9,1929
+"Had, having, and in quest, to have extreme;",43,8,CXXIX,129,10,1930
+"A bliss in proof,-- and prov'd, a very woe;",43,9,CXXIX,129,11,1931
+"Before, a joy propos'd; behind a dream.",39,7,CXXIX,129,12,1932
+All this the world well knows; yet none knows well,50,10,CXXIX,129,13,1933
+To shun the heaven that leads men to this hell.,47,10,CXXIX,129,14,1934
+CXXX,4,1,CXXX,130,0,1935
+My mistress' eyes are nothing like the sun;,43,8,CXXX,130,1,1936
+"Coral is far more red, than her lips red:",41,9,CXXX,130,2,1937
+"If snow be white, why then her breasts are dun;",47,10,CXXX,130,3,1938
+"If hairs be wires, black wires grow on her head.",48,10,CXXX,130,4,1939
+"I have seen roses damask'd, red and white,",42,8,CXXX,130,5,1940
+But no such roses see I in her cheeks;,38,9,CXXX,130,6,1941
+And in some perfumes is there more delight,42,8,CXXX,130,7,1942
+Than in the breath that from my mistress reeks.,47,9,CXXX,130,8,1943
+"I love to hear her speak, yet well I know",41,10,CXXX,130,9,1944
+That music hath a far more pleasing sound:,42,8,CXXX,130,10,1945
+"I grant I never saw a goddess go,--",35,8,CXXX,130,11,1946
+"My mistress, when she walks, treads on the ground:",50,9,CXXX,130,12,1947
+"And yet by heaven, I think my love as rare,",43,10,CXXX,130,13,1948
+As any she belied with false compare.,37,7,CXXX,130,14,1949
+CXXXI,5,1,CXXXI,131,0,1950
+"Thou art as tyrannous, so as thou art,",38,8,CXXXI,131,1,1951
+As those whose beauties proudly make them cruel;,48,8,CXXXI,131,2,1952
+For well thou know'st to my dear doting heart,45,9,CXXXI,131,3,1953
+Thou art the fairest and most precious jewel.,45,8,CXXXI,131,4,1954
+"Yet, in good faith, some say that thee behold,",46,9,CXXXI,131,5,1955
+Thy face hath not the power to make love groan;,47,10,CXXXI,131,6,1956
+"To say they err I dare not be so bold,",38,10,CXXXI,131,7,1957
+Although I swear it to myself alone.,36,7,CXXXI,131,8,1958
+"And to be sure that is not false I swear,",41,10,CXXXI,131,9,1959
+"A thousand groans, but thinking on thy face,",44,8,CXXXI,131,10,1960
+"One on another's neck, do witness bear",38,7,CXXXI,131,11,1961
+Thy black is fairest in my judgment's place.,44,8,CXXXI,131,12,1962
+"In nothing art thou black save in thy deeds,",44,9,CXXXI,131,13,1963
+"And thence this slander, as I think, proceeds.",46,8,CXXXI,131,14,1964
+CXXXII,6,1,CXXXII,132,0,1965
+"Thine eyes I love, and they, as pitying me,",43,9,CXXXII,132,1,1966
+"Knowing thy heart torment me with disdain,",42,7,CXXXII,132,2,1967
+"Have put on black and loving mourners be,",41,8,CXXXII,132,3,1968
+Looking with pretty ruth upon my pain.,38,7,CXXXII,132,4,1969
+And truly not the morning sun of heaven,39,8,CXXXII,132,5,1970
+"Better becomes the grey cheeks of the east,",43,8,CXXXII,132,6,1971
+"Nor that full star that ushers in the even,",43,9,CXXXII,132,7,1972
+"Doth half that glory to the sober west,",39,8,CXXXII,132,8,1973
+As those two mourning eyes become thy face:,43,8,CXXXII,132,9,1974
+O! let it then as well beseem thy heart,39,9,CXXXII,132,10,1975
+"To mourn for me since mourning doth thee grace,",47,9,CXXXII,132,11,1976
+And suit thy pity like in every part.,37,8,CXXXII,132,12,1977
+"Then will I swear beauty herself is black,",42,8,CXXXII,132,13,1978
+And all they foul that thy complexion lack.,43,8,CXXXII,132,14,1979
+CXXXIII,7,1,CXXXIII,133,0,1980
+Beshrew that heart that makes my heart to groan,47,9,CXXXIII,133,1,1981
+For that deep wound it gives my friend and me!,46,10,CXXXIII,133,2,1982
+"Is't not enough to torture me alone,",36,7,CXXXIII,133,3,1983
+But slave to slavery my sweet'st friend must be?,48,9,CXXXIII,133,4,1984
+"Me from myself thy cruel eye hath taken,",40,8,CXXXIII,133,5,1985
+And my next self thou harder hast engross'd:,44,8,CXXXIII,133,6,1986
+"Of him, myself, and thee I am forsaken;",39,8,CXXXIII,133,7,1987
+A torment thrice three-fold thus to be cross'd:,47,8,CXXXIII,133,8,1988
+"Prison my heart in thy steel bosom's ward,",42,8,CXXXIII,133,9,1989
+But then my friend's heart let my poor heart bail;,50,10,CXXXIII,133,10,1990
+"Whoe'er keeps me, let my heart be his guard;",44,9,CXXXIII,133,11,1991
+Thou canst not then use rigour in my jail:,42,9,CXXXIII,133,12,1992
+"And yet thou wilt; for I, being pent in thee,",45,10,CXXXIII,133,13,1993
+"Perforce am thine, and all that is in me.",41,9,CXXXIII,133,14,1994
+CXXXIV,6,1,CXXXIV,134,0,1995
+"So, now I have confess'd that he is thine,",42,9,CXXXIV,134,1,1996
+"And I my self am mortgag'd to thy will,",39,9,CXXXIV,134,2,1997
+"Myself I'll forfeit, so that other mine",39,7,CXXXIV,134,3,1998
+Thou wilt restore to be my comfort still:,41,8,CXXXIV,134,4,1999
+"But thou wilt not, nor he will not be free,",43,10,CXXXIV,134,5,2000
+"For thou art covetous, and he is kind;",38,8,CXXXIV,134,6,2001
+"He learn'd but surety-like to write for me,",43,8,CXXXIV,134,7,2002
+Under that bond that him as fast doth bind.,43,9,CXXXIV,134,8,2003
+"The statute of thy beauty thou wilt take,",41,8,CXXXIV,134,9,2004
+"Thou usurer, that putt'st forth all to use,",43,8,CXXXIV,134,10,2005
+And sue a friend came debtor for my sake;,41,9,CXXXIV,134,11,2006
+So him I lose through my unkind abuse.,38,8,CXXXIV,134,12,2007
+Him have I lost; thou hast both him and me:,43,10,CXXXIV,134,13,2008
+"He pays the whole, and yet am I not free.",41,10,CXXXIV,134,14,2009
+CXXXV,5,1,CXXXV,135,0,2010
+"Whoever hath her wish, thou hast thy 'Will,'",44,8,CXXXV,135,1,2011
+"And 'Will' to boot, and 'Will' in over-plus;",44,8,CXXXV,135,2,2012
+"More than enough am I that vex'd thee still,",44,9,CXXXV,135,3,2013
+To thy sweet will making addition thus.,39,7,CXXXV,135,4,2014
+"Wilt thou, whose will is large and spacious,",44,8,CXXXV,135,5,2015
+Not once vouchsafe to hide my will in thine?,44,9,CXXXV,135,6,2016
+"Shall will in others seem right gracious,",41,7,CXXXV,135,7,2017
+And in my will no fair acceptance shine?,40,8,CXXXV,135,8,2018
+"The sea, all water, yet receives rain still,",44,8,CXXXV,135,9,2019
+And in abundance addeth to his store;,37,7,CXXXV,135,10,2020
+"So thou, being rich in 'Will,' add to thy 'Will'",48,10,CXXXV,135,11,2021
+"One will of mine, to make thy large will more.",46,10,CXXXV,135,12,2022
+Let no unkind 'No' fair beseechers kill;,40,7,CXXXV,135,13,2023
+"Think all but one, and me in that one 'Will.'",45,10,CXXXV,135,14,2024
+CXXXVI,6,1,CXXXVI,136,0,2025
+"If thy soul check thee that I come so near,",43,10,CXXXVI,136,1,2026
+"Swear to thy blind soul that I was thy 'Will',",46,10,CXXXVI,136,2,2027
+"And will, thy soul knows, is admitted there;",44,8,CXXXVI,136,3,2028
+"Thus far for love, my love-suit, sweet, fulfil.",47,8,CXXXVI,136,4,2029
+"'Will', will fulfil the treasure of thy love,",45,8,CXXXVI,136,5,2030
+"Ay, fill it full with wills, and my will one.",45,10,CXXXVI,136,6,2031
+In things of great receipt with ease we prove,45,9,CXXXVI,136,7,2032
+Among a number one is reckon'd none:,36,7,CXXXVI,136,8,2033
+"Then in the number let me pass untold,",38,8,CXXXVI,136,9,2034
+Though in thy store's account I one must be;,44,9,CXXXVI,136,10,2035
+"For nothing hold me, so it please thee hold",43,9,CXXXVI,136,11,2036
+"That nothing me, a something sweet to thee:",43,8,CXXXVI,136,12,2037
+"Make but my name thy love, and love that still,",47,10,CXXXVI,136,13,2038
+And then thou lov'st me for my name is 'Will.',46,10,CXXXVI,136,14,2039
+CXXXVII,7,1,CXXXVII,137,0,2040
+"Thou blind fool, Love, what dost thou to mine eyes,",51,10,CXXXVII,137,1,2041
+"That they behold, and see not what they see?",44,9,CXXXVII,137,2,2042
+"They know what beauty is, see where it lies,",44,9,CXXXVII,137,3,2043
+Yet what the best is take the worst to be.,42,10,CXXXVII,137,4,2044
+"If eyes, corrupt by over-partial looks,",39,6,CXXXVII,137,5,2045
+"Be anchor'd in the bay where all men ride,",42,9,CXXXVII,137,6,2046
+"Why of eyes' falsehood hast thou forged hooks,",46,8,CXXXVII,137,7,2047
+Whereto the judgment of my heart is tied?,41,8,CXXXVII,137,8,2048
+"Why should my heart think that a several plot,",46,9,CXXXVII,137,9,2049
+Which my heart knows the wide world's common place?,51,9,CXXXVII,137,10,2050
+"Or mine eyes, seeing this, say this is not,",43,9,CXXXVII,137,11,2051
+To put fair truth upon so foul a face?,38,9,CXXXVII,137,12,2052
+"In things right true my heart and eyes have err'd,",50,10,CXXXVII,137,13,2053
+And to this false plague are they now transferr'd.,50,9,CXXXVII,137,14,2054
+CXXXVIII,8,1,CXXXVIII,138,0,2055
+"When my love swears that she is made of truth,",46,10,CXXXVIII,138,1,2056
+"I do believe her though I know she lies,",40,9,CXXXVIII,138,2,2057
+"That she might think me some untutor'd youth,",45,8,CXXXVIII,138,3,2058
+Unlearned in the world's false subtleties.,42,6,CXXXVIII,138,4,2059
+"Thus vainly thinking that she thinks me young,",46,8,CXXXVIII,138,5,2060
+"Although she knows my days are past the best,",45,9,CXXXVIII,138,6,2061
+Simply I credit her false-speaking tongue:,42,6,CXXXVIII,138,7,2062
+On both sides thus is simple truth suppressed:,46,8,CXXXVIII,138,8,2063
+But wherefore says she not she is unjust?,41,8,CXXXVIII,138,9,2064
+And wherefore say not I that I am old?,38,9,CXXXVIII,138,10,2065
+"O! love's best habit is in seeming trust,",41,8,CXXXVIII,138,11,2066
+"And age in love, loves not to have years told:",46,10,CXXXVIII,138,12,2067
+"Therefore I lie with her, and she with me,",42,9,CXXXVIII,138,13,2068
+And in our faults by lies we flatter'd be.,42,9,CXXXVIII,138,14,2069
+CXXXIX,6,1,CXXXIX,139,0,2070
+O! call not me to justify the wrong,35,8,CXXXIX,139,1,2071
+That thy unkindness lays upon my heart;,39,7,CXXXIX,139,2,2072
+"Wound me not with thine eye, but with thy tongue:",49,10,CXXXIX,139,3,2073
+"Use power with power, and slay me not by art,",45,10,CXXXIX,139,4,2074
+"Tell me thou lov'st elsewhere; but in my sight,",47,9,CXXXIX,139,5,2075
+"Dear heart, forbear to glance thine eye aside:",46,8,CXXXIX,139,6,2076
+"What need'st thou wound with cunning, when thy might",52,9,CXXXIX,139,7,2077
+Is more than my o'erpress'd defence can bide?,45,8,CXXXIX,139,8,2078
+Let me excuse thee: ah! my love well knows,42,9,CXXXIX,139,9,2079
+Her pretty looks have been mine enemies;,40,7,CXXXIX,139,10,2080
+"And therefore from my face she turns my foes,",45,9,CXXXIX,139,11,2081
+That they elsewhere might dart their injuries:,46,7,CXXXIX,139,12,2082
+"Yet do not so; but since I am near slain,",41,10,CXXXIX,139,13,2083
+"Kill me outright with looks, and rid my pain.",45,9,CXXXIX,139,14,2084
+CXL,3,1,CXL,140,0,2085
+Be wise as thou art cruel; do not press,39,9,CXL,140,1,2086
+My tongue-tied patience with too much disdain;,46,7,CXL,140,2,2087
+"Lest sorrow lend me words, and words express",44,8,CXL,140,3,2088
+The manner of my pity-wanting pain.,35,6,CXL,140,4,2089
+"If I might teach thee wit, better it were,",42,9,CXL,140,5,2090
+"Though not to love, yet, love to tell me so;--",46,10,CXL,140,6,2091
+"As testy sick men, when their deaths be near,",45,9,CXL,140,7,2092
+No news but health from their physicians know;--,48,8,CXL,140,8,2093
+"For, if I should despair, I should grow mad,",44,9,CXL,140,9,2094
+And in my madness might speak ill of thee;,42,9,CXL,140,10,2095
+"Now this ill-wresting world is grown so bad,",44,8,CXL,140,11,2096
+Mad slanderers by mad ears believed be.,39,7,CXL,140,12,2097
+"That I may not be so, nor thou belied,",38,9,CXL,140,13,2098
+"Bear thine eyes straight, though thy proud heart go wide.",57,10,CXL,140,14,2099
+CXLI,4,1,CXLI,141,0,2100
+"In faith I do not love thee with mine eyes,",43,10,CXLI,141,1,2101
+For they in thee a thousand errors note;,40,8,CXLI,141,2,2102
+"But 'tis my heart that loves what they despise,",47,9,CXLI,141,3,2103
+"Who, in despite of view, is pleased to dote.",44,9,CXLI,141,4,2104
+Nor are mine ears with thy tongue's tune delighted;,51,9,CXLI,141,5,2105
+"Nor tender feeling, to base touches prone,",42,7,CXLI,141,6,2106
+"Nor taste, nor smell, desire to be invited",42,8,CXLI,141,7,2107
+To any sensual feast with thee alone:,37,7,CXLI,141,8,2108
+But my five wits nor my five senses can,39,9,CXLI,141,9,2109
+"Dissuade one foolish heart from serving thee,",45,7,CXLI,141,10,2110
+"Who leaves unsway'd the likeness of a man,",42,8,CXLI,141,11,2111
+Thy proud heart's slave and vassal wretch to be:,48,9,CXLI,141,12,2112
+"Only my plague thus far I count my gain,",40,9,CXLI,141,13,2113
+That she that makes me sin awards me pain.,42,9,CXLI,141,14,2114
+CXLII,5,1,CXLII,142,0,2115
+"Love is my sin, and thy dear virtue hate,",41,9,CXLII,142,1,2116
+"Hate of my sin, grounded on sinful loving:",42,8,CXLII,142,2,2117
+"O! but with mine compare thou thine own state,",46,9,CXLII,142,3,2118
+And thou shalt find it merits not reproving;,44,8,CXLII,142,4,2119
+"Or, if it do, not from those lips of thine,",43,10,CXLII,142,5,2120
+That have profan'd their scarlet ornaments,42,6,CXLII,142,6,2121
+"And seal'd false bonds of love as oft as mine,",46,10,CXLII,142,7,2122
+Robb'd others' beds' revenues of their rents.,45,7,CXLII,142,8,2123
+"Be it lawful I love thee, as thou lov'st those",46,10,CXLII,142,9,2124
+Whom thine eyes woo as mine importune thee:,43,8,CXLII,142,10,2125
+"Root pity in thy heart, that, when it grows,",44,9,CXLII,142,11,2126
+Thy pity may deserve to pitied be.,34,7,CXLII,142,12,2127
+"If thou dost seek to have what thou dost hide,",46,10,CXLII,142,13,2128
+By self-example mayst thou be denied!,37,6,CXLII,142,14,2129
+CXLIII,6,1,CXLIII,143,0,2130
+"Lo, as a careful housewife runs to catch",40,8,CXLIII,143,1,2131
+"One of her feather'd creatures broke away,",42,7,CXLIII,143,2,2132
+"Sets down her babe, and makes all swift dispatch",48,9,CXLIII,143,3,2133
+In pursuit of the thing she would have stay;,44,9,CXLIII,143,4,2134
+"Whilst her neglected child holds her in chase,",46,8,CXLIII,143,5,2135
+Cries to catch her whose busy care is bent,42,9,CXLIII,143,6,2136
+"To follow that which flies before her face,",43,8,CXLIII,143,7,2137
+Not prizing her poor infant's discontent;,41,6,CXLIII,143,8,2138
+"So runn'st thou after that which flies from thee,",49,9,CXLIII,143,9,2139
+Whilst I thy babe chase thee afar behind;,41,8,CXLIII,143,10,2140
+"But if thou catch thy hope, turn back to me,",44,10,CXLIII,143,11,2141
+"And play the mother's part, kiss me, be kind;",45,9,CXLIII,143,12,2142
+"So will I pray that thou mayst have thy 'Will,'",47,10,CXLIII,143,13,2143
+If thou turn back and my loud crying still.,43,9,CXLIII,143,14,2144
+CXLIV,5,1,CXLIV,144,0,2145
+"Two loves I have of comfort and despair,",40,8,CXLIV,144,1,2146
+Which like two spirits do suggest me still:,43,8,CXLIV,144,2,2147
+"The better angel is a man right fair,",37,8,CXLIV,144,3,2148
+The worser spirit a woman colour'd ill.,39,7,CXLIV,144,4,2149
+"To win me soon to hell, my female evil,",39,9,CXLIV,144,5,2150
+"Tempteth my better angel from my side,",38,7,CXLIV,144,6,2151
+"And would corrupt my saint to be a devil,",41,9,CXLIV,144,7,2152
+Wooing his purity with her foul pride.,38,7,CXLIV,144,8,2153
+"And whether that my angel be turn'd fiend,",42,8,CXLIV,144,9,2154
+"Suspect I may, yet not directly tell;",37,7,CXLIV,144,10,2155
+"But being both from me, both to each friend,",44,9,CXLIV,144,11,2156
+I guess one angel in another's hell:,36,7,CXLIV,144,12,2157
+"Yet this shall I ne'er know, but live in doubt,",47,10,CXLIV,144,13,2158
+Till my bad angel fire my good one out.,39,9,CXLIV,144,14,2159
+CXLV,4,1,CXLV,145,0,2160
+"Those lips that Love's own hand did make,",41,8,CXLV,145,1,2161
+"Breathed forth the sound that said 'I hate',",44,8,CXLV,145,2,2162
+To me that languish'd for her sake:,35,7,CXLV,145,3,2163
+"But when she saw my woeful state,",33,7,CXLV,145,4,2164
+"Straight in her heart did mercy come,",37,7,CXLV,145,5,2165
+Chiding that tongue that ever sweet,35,6,CXLV,145,6,2166
+Was us'd in giving gentle doom;,31,6,CXLV,145,7,2167
+And taught it thus anew to greet;,33,7,CXLV,145,8,2168
+"'I hate' she alter'd with an end,",33,7,CXLV,145,9,2169
+"That followed it as gentle day,",31,6,CXLV,145,10,2170
+"Doth follow night, who like a fiend",35,7,CXLV,145,11,2171
+From heaven to hell is flown away.,34,7,CXLV,145,12,2172
+"'I hate', from hate away she threw,",35,7,CXLV,145,13,2173
+"And sav'd my life, saying 'not you'.",36,7,CXLV,145,14,2174
+CXLVI,5,1,CXLVI,146,0,2175
+"Poor soul, the centre of my sinful earth,",41,8,CXLVI,146,1,2176
+"My sinful earth these rebel powers array,",41,7,CXLVI,146,2,2177
+"Why dost thou pine within and suffer dearth,",44,8,CXLVI,146,3,2178
+Painting thy outward walls so costly gay?,41,7,CXLVI,146,4,2179
+"Why so large cost, having so short a lease,",43,9,CXLVI,146,5,2180
+Dost thou upon thy fading mansion spend?,40,7,CXLVI,146,6,2181
+"Shall worms, inheritors of this excess,",39,6,CXLVI,146,7,2182
+Eat up thy charge? Is this thy body's end?,42,9,CXLVI,146,8,2183
+"Then soul, live thou upon thy servant's loss,",45,8,CXLVI,146,9,2184
+And let that pine to aggravate thy store;,41,8,CXLVI,146,10,2185
+Buy terms divine in selling hours of dross;,43,8,CXLVI,146,11,2186
+"Within be fed, without be rich no more:",39,8,CXLVI,146,12,2187
+"So shall thou feed on Death, that feeds on men,",47,10,CXLVI,146,13,2188
+"And Death once dead, there's no more dying then.",48,9,CXLVI,146,14,2189
+CXLVII,6,1,CXLVII,147,0,2190
+"My love is as a fever longing still,",36,8,CXLVII,147,1,2191
+For that which longer nurseth the disease;,42,7,CXLVII,147,2,2192
+"Feeding on that which doth preserve the ill,",44,8,CXLVII,147,3,2193
+The uncertain sickly appetite to please.,40,6,CXLVII,147,4,2194
+"My reason, the physician to my love,",36,7,CXLVII,147,5,2195
+"Angry that his prescriptions are not kept,",42,7,CXLVII,147,6,2196
+"Hath left me, and I desperate now approve",41,8,CXLVII,147,7,2197
+"Desire is death, which physic did except.",41,7,CXLVII,147,8,2198
+"Past cure I am, now Reason is past care,",40,9,CXLVII,147,9,2199
+And frantic-mad with evermore unrest;,37,5,CXLVII,147,10,2200
+"My thoughts and my discourse as madmen's are,",45,8,CXLVII,147,11,2201
+At random from the truth vainly express'd;,42,7,CXLVII,147,12,2202
+"For I have sworn thee fair, and thought thee bright,",52,10,CXLVII,147,13,2203
+"Who art as black as hell, as dark as night.",43,10,CXLVII,147,14,2204
+CXLVIII,7,1,CXLVIII,148,0,2205
+"O me! what eyes hath Love put in my head,",41,10,CXLVIII,148,1,2206
+Which have no correspondence with true sight;,45,7,CXLVIII,148,2,2207
+"Or, if they have, where is my judgment fled,",44,9,CXLVIII,148,3,2208
+That censures falsely what they see aright?,43,7,CXLVIII,148,4,2209
+"If that be fair whereon my false eyes dote,",43,9,CXLVIII,148,5,2210
+What means the world to say it is not so?,41,10,CXLVIII,148,6,2211
+"If it be not, then love doth well denote",40,9,CXLVIII,148,7,2212
+"Love's eye is not so true as all men's: no,",43,10,CXLVIII,148,8,2213
+"How can it? O! how can Love's eye be true,",42,10,CXLVIII,148,9,2214
+That is so vexed with watching and with tears?,46,9,CXLVIII,148,10,2215
+"No marvel then, though I mistake my view;",41,8,CXLVIII,148,11,2216
+"The sun itself sees not, till heaven clears.",44,8,CXLVIII,148,12,2217
+"O cunning Love! with tears thou keep'st me blind,",49,9,CXLVIII,148,13,2218
+Lest eyes well-seeing thy foul faults should find.,50,8,CXLVIII,148,14,2219
+CXLIX,5,1,CXLIX,149,0,2220
+"Canst thou, O cruel! say I love thee not,",41,9,CXLIX,149,1,2221
+When I against myself with thee partake?,40,7,CXLIX,149,2,2222
+"Do I not think on thee, when I forgot",37,9,CXLIX,149,3,2223
+"Am of my self, all tyrant, for thy sake?",40,9,CXLIX,149,4,2224
+"Who hateth thee that I do call my friend,",41,9,CXLIX,149,5,2225
+"On whom frown'st thou that I do fawn upon,",42,9,CXLIX,149,6,2226
+"Nay, if thou lour'st on me, do I not spend",42,10,CXLIX,149,7,2227
+Revenge upon myself with present moan?,38,6,CXLIX,149,8,2228
+"What merit do I in my self respect,",35,8,CXLIX,149,9,2229
+"That is so proud thy service to despise,",40,8,CXLIX,149,10,2230
+"When all my best doth worship thy defect,",41,8,CXLIX,149,11,2231
+Commanded by the motion of thine eyes?,38,7,CXLIX,149,12,2232
+"But, love, hate on, for now I know thy mind;",44,10,CXLIX,149,13,2233
+"Those that can see thou lov'st, and I am blind.",47,10,CXLIX,149,14,2234
+CL,2,1,CL,150,0,2235
+"O! from what power hast thou this powerful might,",49,9,CL,150,1,2236
+With insufficiency my heart to sway?,36,6,CL,150,2,2237
+"To make me give the lie to my true sight,",41,10,CL,150,3,2238
+And swear that brightness doth not grace the day?,49,9,CL,150,4,2239
+"Whence hast thou this becoming of things ill,",45,8,CL,150,5,2240
+That in the very refuse of thy deeds,36,8,CL,150,6,2241
+"There is such strength and warrantise of skill,",47,8,CL,150,7,2242
+"That, in my mind, thy worst all best exceeds?",45,9,CL,150,8,2243
+"Who taught thee how to make me love thee more,",46,10,CL,150,9,2244
+The more I hear and see just cause of hate?,43,10,CL,150,10,2245
+"O! though I love what others do abhor,",38,8,CL,150,11,2246
+With others thou shouldst not abhor my state:,45,8,CL,150,12,2247
+"If thy unworthiness rais'd love in me,",38,7,CL,150,13,2248
+More worthy I to be belov'd of thee.,36,8,CL,150,14,2249
+CLI,3,1,CLI,151,0,2250
+"Love is too young to know what conscience is,",45,9,CLI,151,1,2251
+Yet who knows not conscience is born of love?,45,9,CLI,151,2,2252
+"Then, gentle cheater, urge not my amiss,",40,7,CLI,151,3,2253
+Lest guilty of my faults thy sweet self prove:,46,9,CLI,151,4,2254
+"For, thou betraying me, I do betray",35,7,CLI,151,5,2255
+My nobler part to my gross body's treason;,42,8,CLI,151,6,2256
+My soul doth tell my body that he may,37,9,CLI,151,7,2257
+"Triumph in love; flesh stays no farther reason,",47,8,CLI,151,8,2258
+"But rising at thy name doth point out thee,",43,9,CLI,151,9,2259
+"As his triumphant prize. Proud of this pride,",45,8,CLI,151,10,2260
+"He is contented thy poor drudge to be,",38,8,CLI,151,11,2261
+"To stand in thy affairs, fall by thy side.",42,9,CLI,151,12,2262
+No want of conscience hold it that I call,41,9,CLI,151,13,2263
+"Her 'love,' for whose dear love I rise and fall.",48,10,CLI,151,14,2264
+CLII,4,1,CLII,152,0,2265
+"In loving thee thou know'st I am forsworn,",42,8,CLII,152,1,2266
+"But thou art twice forsworn, to me love swearing;",49,9,CLII,152,2,2267
+"In act thy bed-vow broke, and new faith torn,",45,9,CLII,152,3,2268
+In vowing new hate after new love bearing:,42,8,CLII,152,4,2269
+"But why of two oaths' breach do I accuse thee,",46,10,CLII,152,5,2270
+When I break twenty? I am perjur'd most;,40,8,CLII,152,6,2271
+"For all my vows are oaths but to misuse thee,",45,10,CLII,152,7,2272
+And all my honest faith in thee is lost:,40,9,CLII,152,8,2273
+"For I have sworn deep oaths of thy deep kindness,",49,10,CLII,152,9,2274
+"Oaths of thy love, thy truth, thy constancy;",44,8,CLII,152,10,2275
+"And, to enlighten thee, gave eyes to blindness,",47,8,CLII,152,11,2276
+Or made them swear against the thing they see;,46,9,CLII,152,12,2277
+"For I have sworn thee fair; more perjur'd I,",44,9,CLII,152,13,2278
+To swear against the truth so foul a lie!,41,9,CLII,152,14,2279
+CLIII,5,1,CLIII,153,0,2280
+Cupid laid by his brand and fell asleep:,40,8,CLIII,153,1,2281
+"A maid of Dian's this advantage found,",38,7,CLIII,153,2,2282
+And his love-kindling fire did quickly steep,44,7,CLIII,153,3,2283
+In a cold valley-fountain of that ground;,41,7,CLIII,153,4,2284
+"Which borrow'd from this holy fire of Love,",43,8,CLIII,153,5,2285
+"A dateless lively heat, still to endure,",40,7,CLIII,153,6,2286
+"And grew a seeting bath, which yet men prove",44,9,CLIII,153,7,2287
+Against strange maladies a sovereign cure.,42,6,CLIII,153,8,2288
+"But at my mistress' eye Love's brand new-fired,",47,8,CLIII,153,9,2289
+The boy for trial needs would touch my breast;,46,9,CLIII,153,10,2290
+"I, sick withal, the help of bath desired,",41,8,CLIII,153,11,2291
+"And thither hied, a sad distemper'd guest,",42,7,CLIII,153,12,2292
+"But found no cure, the bath for my help lies",44,10,CLIII,153,13,2293
+Where Cupid got new fire; my mistress' eyes.,44,8,CLIII,153,14,2294
+CLIV,4,1,CLIV,154,0,2295
+"The little Love-god lying once asleep,",38,6,CLIV,154,1,2296
+"Laid by his side his heart-inflaming brand,",43,7,CLIV,154,2,2297
+Whilst many nymphs that vow'd chaste life to keep,49,9,CLIV,154,3,2298
+Came tripping by; but in her maiden hand,40,8,CLIV,154,4,2299
+The fairest votary took up that fire,36,7,CLIV,154,5,2300
+Which many legions of true hearts had warm'd;,45,8,CLIV,154,6,2301
+And so the general of hot desire,32,7,CLIV,154,7,2302
+"Was, sleeping, by a virgin hand disarm'd.",41,7,CLIV,154,8,2303
+"This brand she quenched in a cool well by,",42,9,CLIV,154,9,2304
+"Which from Love's fire took heat perpetual,",43,7,CLIV,154,10,2305
+"Growing a bath and healthful remedy,",36,6,CLIV,154,11,2306
+"For men diseas'd; but I, my mistress' thrall,",45,8,CLIV,154,12,2307
+"Came there for cure and this by that I prove,",45,10,CLIV,154,13,2308
+"Love's fire heats water, water cools not love.",46,8,CLIV,154,14,2309
