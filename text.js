@@ -1,6 +1,6 @@
 var margin_line = {top: 20, right: 150, bottom: 20, left: 40};
 const poem_svg = d3.select("#poem").append("text")
-    .attr("width",300)
+    .attr("width",600)
     .attr("height",500)
     .attr("transform","translate(" + margin_line.left + "," + margin_line.top + ")");
 const title = poem_svg.append('text').attr("class","sonnet");
