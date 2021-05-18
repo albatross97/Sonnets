@@ -32,10 +32,13 @@ function renderPoem(index,id) {
             .data(mypoem)
             .enter()
                 .append('li')
-                .style("font-size", "1rem")
-                .style("color","grey")   
+                .style("font-size", d => d.id == id ?  "1.15rem": "1rem")
                 .style("font-weight", d => d.id == id ?  700: 300)   
-                .text(d => `${d.text}`);// add text to each list element
+                .style("color","grey")   
+                .append('text')
+                .text(d => `${d.text}`)
+                .style("color",d => d.id == id ?"white":"grey")   
+                .style("background",d => d.id == id ? "rgb(123, 204, 196)":"#DCDCDC");// add text to each list element
         
     })
 }
