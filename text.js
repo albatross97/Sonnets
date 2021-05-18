@@ -16,26 +16,26 @@ function renderPoem(index,id) {
 
     d3.csv("data/sonnets_revised.csv").then(function (raw_data) {
         data = raw_data.map(d => ({id: d.id, text: d.text, index: +d.index_num, line: +d.line}))
-            selected_data = data.filter(d => d.index == index);
-            mypoem = selected_data.filter(d => d.line != 0);
-            poem_index = selected_data.filter(d => d.line == 0);
+            const selected_data = data.filter(d => d.index == index);
+            const mypoem = selected_data.filter(d => d.line != 0);
+            const poem_index = selected_data.filter(d => d.line == 0);
 
-//             title.selectAll('text')
-//             .data(poem_index)
-//             .enter()
-//                 .append('text')
-//                 .style("color","grey")
-//                 .style("font-size", "2rem")
-//                 .text(d => `Sonnet ${d.text}`);
+            title.selectAll('text')
+            .data(poem_index)
+            .enter()
+                .append('text')
+                .style("color","grey")
+                .style("font-size", "2rem")
+                .text(d => `Sonnet ${d.text}`);
 
-//             myol.selectAll('li') // select all list elements (orange circle above)
-//             .data(mypoem)
-//             .enter()
-//                 .append('li')
-//                 .style("font-size", "1rem")
-//                 .style("color","grey")   
-//                 .style("font-weight", d => d.id == id ?  700: 300)   
-//                 .text(d => `${d.text}`);// add text to each list element
+            myol.selectAll('li') // select all list elements (orange circle above)
+            .data(mypoem)
+            .enter()
+                .append('li')
+                .style("font-size", "1rem")
+                .style("color","grey")   
+                .style("font-weight", d => d.id == id ?  700: 300)   
+                .text(d => `${d.text}`);// add text to each list element
         
     })
 }
